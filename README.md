@@ -1,2 +1,2 @@
-# AORs
-A repoistory for a meta-analysis for abundance-occupancy relationships
+# AORs (abundance-occupancy relationships)
+A repository for a meta-analysis of abundance-occupancy relationships
