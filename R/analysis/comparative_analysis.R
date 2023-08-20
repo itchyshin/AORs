@@ -12,7 +12,8 @@ library(phylolm)
 
 
 dat <- readRDS(here("Data/comp_dat.RDS"))
-
+# tree data
+tree <- read.tree(here("Data", "phylo_data", "phy.tre"))
 
 #####################################
 # Phylogenetic comparative  analysis 

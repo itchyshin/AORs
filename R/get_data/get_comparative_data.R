@@ -8,12 +8,12 @@ library(here)
 density_dat <- readRDS("Data/grid_specific_density_and_abundance.RDS")
 
 # tree data
-tree <- read.tree(here("Data", "phylo_data", "phy.tre"))
+# tree <- read.tree(here("Data", "phylo_data", "phy.tre"))
 
 ll<-readr::read_csv("Data/clements_clean.csv")
 density_dat %>% left_join(ll)-> density_dat
 
-density_dat$density
+# density_dat$density
 # density_data is already grouped by bird spp
 # some species have NA so reduced to 
 aor_dat <- density_dat %>% ungroup() %>% group_by(TipLabel) %>% 
