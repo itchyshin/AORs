@@ -1,2 +1,5 @@
 # AORs (abundance-occupancy relationships)
 A repository for a meta-analysis of abundance-occupancy relationships
+
+## Notes
+Data files that were too big to fit in this repository can be downloaded from [here](http://www.i-deel.org/). Also, we use the R package, `asreml`, which needs to be bought from [here](https://vsni.co.uk/software/asreml-r) if all the analyses need to be replicated. However, we have provided Rds files, which have meta-analytic model results so people can check these model outputs. All other analyses apart from meta-analyses should be replicated. 
