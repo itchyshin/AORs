@@ -83,27 +83,27 @@ mr3 <- asreml(Zr1 ~ VZr +  scale(log(effort_time)),
 # typical sampling variance
 tmev <- tmev(dat$VZr, dim(dat)[1])
 
-# mod
-system.time(mod <- readRDS(here("Rdata/ma.RDS")))
-summary(mod)$varcomp
-summary(mod, coef = TRUE)$coef.fixed
-I2(mod)
+# meta-analysis
+system.time(ma <- readRDS(here("Rdata/ma.RDS")))
+summary(ma)$varcomp
+summary(ma, coef = TRUE)$coef.fixed
+I2(ma)
 
 
-# mod6
-system.time(mod6 <- readRDS(here("Rdata/mr1.RDS")))
-summary(mod6)$varcomp
-summary(mod6, coef = TRUE)$coef.fixed
+# meta-regression: effort time
+system.time(mr1 <- readRDS(here("Rdata/mr1.RDS")))
+summary(mr1)$varcomp
+summary(mr1, coef = TRUE)$coef.fixed
 
-# mod7
-system.time(mod7 <- readRDS(here("Rdata/mr2.RDS"))) 
-summary(mod7)$varcomp
-summary(mod7, coef = TRUE)$coef.fixed
+# meta-regression: sampling variance
+system.time(mr2 <- readRDS(here("Rdata/mr2.RDS"))) 
+summary(mr2)$varcomp
+summary(mr2, coef = TRUE)$coef.fixed
 
-# mod4
-system.time(mod4 <- readRDS(here("Rdata/mr3.RDS"))) 
-summary(mod4)$varcomp
-summary(mod4, coef = TRUE)$coef.fixed
+# meta-regression: sampling variance + effort time
+system.time(mr3 <- readRDS(here("Rdata/mr3.RDS"))) 
+summary(mr3)$varcomp
+summary(mr3, coef = TRUE)$coef.fixed
 
 
 ############

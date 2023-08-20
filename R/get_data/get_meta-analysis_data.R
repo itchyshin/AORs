@@ -42,10 +42,19 @@ saveRDS(dat, here("Rdata/dat_MA.RDS"))
 # extra
 ########
 
-table <- data_full %>%
+# the number of species and the number of observations
+
+setwd(here("Data/data_summary/"))
+
+df2 <- list.files(pattern = ".RDS") %>%
+  map_dfr(readRDS)
+
+setwd("../..")
+
+table_s1 <- df2 %>%
   group_by(COMMON_NAME, SCIENTIFIC_NAME) %>%
   summarize(number_of_times_in_a_model=sum(N),
             number_of_total_individuals=sum(total_individuals))
 
-length(unique(table$COMMON_NAME))
-sum(table$number_of_total_individuals)
+length(unique(table_s1$COMMON_NAME))
+sum(table_s1$number_of_total_individuals)
