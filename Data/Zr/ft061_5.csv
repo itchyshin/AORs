@@ -1,0 +1,26 @@
+﻿obs_ID,study_ID,year_pub,es,var
+obs001,Han et al. 2016,2016,-0.11,0.0036
+obs002,Han et al. 2016,2016,-0.07,0.0036
+obs003,Han et al. 2016,2016,0.01,0.0036
+obs004,Han et al. Unpublished I,,0.19,0.0028
+obs005,Han et al. Unpublished I,,0.054,0.0036
+obs006,Han et al. Unpublished I,,0.115,0.0027
+obs007,Han et al. Unpublished I,,-0.01,0.0033
+obs008,Han et al. Unpublished II,,0.007,0.0022
+obs009,Han et al. Unpublished II,,-0.119,0.0031
+obs010,Han et al. Unpublished II,,-0.004,0.0009
+obs011,Han et al. Unpublished II,,-0.111,0.0011
+obs012,Iserbyt et al. 2017,2017,0.11,0.0036
+obs013,Moiron et al. Unpublished,,-0.01,0.0031
+obs014,Moiron et al. Unpublished,,-0.03,0.0026
+obs015,Niemela et al. Unpublished,,0.07,0.0036
+obs016,Royaute and Dochtermann 2017,2017,-0.05,0.0067
+obs017,Royaute and Dochtermann 2017,2017,0.03,0.0051
+obs018,Royaute and Dochtermann 2017,2017,0.01,0.0063
+obs019,Royaute and Dochtermann 2017,2017,0.09,0.0047
+obs020,Royaute et al. 2015,2015,0.05,0.0063
+obs021,Royaute et al. 2015,2015,-0.06,0.0059
+obs022,Santostefano et al. 2016,2016,0.05,0.0036
+obs023,Santostefano et al. 2016,2016,0.13,0.0036
+obs024,Santostefano et al. 2016,2016,0.06,0.0036
+obs025,Bijlevelt et al. 2014,2014,0.13,0.0406

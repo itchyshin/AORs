@@ -1,0 +1,10 @@
+﻿obs_ID,study_ID,year_pub,es,var
+obs001,Careau 2017,2017,-0.324,0.012321
+obs002,Careau 2017,2017,-0.056,0.015129
+obs003,Gifford et al. 2014,2014,-0.15,0.0256
+obs004,Gifford et al. 2014,2014,-0.17,0.0256
+obs005,Gifford et al. 2014,2014,-0.17,0.0256
+obs006,Gifford et al. 2014,2014,-0.15,0.0256
+obs007,Krams et al. 2017,2017,0.079,0.006889
+obs008,Krams et al. 2014*,2014,-0.016,0.004624
+obs009,Krams et al. 2014*,2014,0.178,0.004225

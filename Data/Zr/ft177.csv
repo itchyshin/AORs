@@ -1,0 +1,554 @@
+obs_ID,study_ID,year_pub,es,var
+obs001,Galvan et al. 2012 Journal of Avian Biology,2012,0.055055559,0.013888889
+obs002,Galvan et al. 2012 Journal of Avian Biology,2012,0.237359351,0.058823529
+obs003,Galvan et al. 2012 Journal of Avian Biology,2012,-0.092260889,0.023809524
+obs004,Galvan et al. 2012 Journal of Avian Biology,2012,-0.11652454,0.016129032
+obs005,Galvan et al. 2012 Journal of Avian Biology,2012,0.048036915,0.001883239
+obs006,van de Crommenacker 2011 Proc Roy Soc B,2011,0.081831831,0.011494253
+obs007,Galvan et al. 2012 Journal of Avian Biology,2012,-0.041022997,0.008264463
+obs008,Ilmonen et al. 1999 Oikos,1999,-0.11350349,0.04
+obs009,Ilmonen et al. 1999 Oikos,1999,-0.280009834,0.05
+obs010,Gallivan et al. 1995 S. African J. Zool.,1995,-0.440295431,0.023255814
+obs011,Puttker et al. 2008 Ecological Research,2008,-0.155235044,0.034482759
+obs012,Puttker et al. 2008 Ecological Research,2008,-0.160360592,0.034482759
+obs013,Galvan et al. 2012 Journal of Avian Biology,2012,0.963874235,0.047619048
+obs014,Davidson et al. 2015 International Journal for Parasitology: Parasites and Wildlife,2015,-0.546588593,0.028571429
+obs015,Davidson et al. 2015 International Journal for Parasitology: Parasites and Wildlife,2015,-0.746578693,0.027027027
+obs016,Davidson et al. 2015 International Journal for Parasitology: Parasites and Wildlife,2015,-0.335719998,0.027027027
+obs017,Gortazar et al. 2002 Annals of the new york academy of sciences,2002,-0.284382004,0.009708738
+obs018,Calvete et al. 2003 Journal of Parasitology,2003,-0.098830493,0.001712329
+obs019,Millan et al. 2004 Parasitology Research,2004,-0.490430436,0.009009009
+obs020,Millan et al. 2004 Parasitology Research,2004,-0.490430436,0.015151515
+obs021,Mougeut et al. 2009 J. Avian Biol,2009,-0.386827943,0.025641026
+obs022,Millan et al. 2004 Parasitology Research,2004,-0.595077475,0.023809524
+obs023,Millan et al. 2004 Parasitology Research,2004,-0.60538802,0.009009009
+obs024,Millan et al. 2004 Parasitology Research,2004,-0.60538802,0.015151515
+obs025,Millan et al. 2004 Parasitology Research,2004,-0.472990352,0.009009009
+obs026,Millan et al. 2004 Parasitology Research,2004,-0.472990352,0.023809524
+obs027,Millan et al. 2004 Parasitology Research,2004,-0.629255898,0.015151515
+obs028,Millan et al. 2004 Parasitology Research,2004,-0.417736681,0.015151515
+obs029,Millan et al. 2004 Parasitology Research,2004,-0.348906851,0.015151515
+obs030,Millan et al. 2004 Parasitology Research,2004,-0.624205982,0.023809524
+obs031,Millan et al. 2004 Parasitology Research,2004,-0.417736681,0.009009009
+obs032,Millan et al. 2004 Parasitology Research,2004,-0.629255898,0.009009009
+obs033,Millan et al. 2004 Parasitology Research,2004,-0.34819085,0.009009009
+obs034,Villanua et al. 2008 European Journal of Wildlife Research,2008,-0.320545409,0.010526316
+obs035,Villanua et al. 2008 European Journal of Wildlife Research,2008,-0.287682072,0.010526316
+obs036,van Dijk et al. 2015 Ecology and Evolution,2015,-0.014510543,0.003546099
+obs037,Gerard et al. 2013 Parasite,2013,0.265723626,0.018181818
+obs038,Mayo-Hernandez et al. 2015 Parasitology,2015,0.296366219,0.005376344
+obs039,Mayo-Hernandez et al. 2015 Parasitology,2015,0.361583214,0.005376344
+obs040,Mayo-Hernandez et al. 2015 Parasitology,2015,0.151140436,0.005376344
+obs041,Mayo-Hernandez et al. 2015 Parasitology,2015,0.288995519,0.005376344
+obs042,Mayo-Hernandez et al. 2015 Parasitology,2015,0.279201108,0.005376344
+obs043,Gerard et al. 2013 Parasite,2013,-0.411426319,0.018181818
+obs044,Lefebvre et al. 2004 New Zealand Journal of Marine and Freshwater Research,2004,-0.107291083,0.005376344
+obs045,Lefebvre et al. 2004 New Zealand Journal of Marine and Freshwater Research,2004,-0.142119222,0.005376344
+obs046,Lefebvre et al. 2004 New Zealand Journal of Marine and Freshwater Research,2004,-0.090244188,0.125
+obs047,Lefebvre et al. 2004 New Zealand Journal of Marine and Freshwater Research,2004,-0.160787546,0.005376344
+obs048,Schall & Pearson 2000 Journal of Herptology,2000,-0.05378472,0.001067236
+obs049,Galvan et al. 2012 Journal of Avian Biology,2012,0.053049709,0.012048193
+obs050,Spurgin et al. 2012 Oecologia,2012,0.087150498,0.001206273
+obs051,Galvan et al. 2012 Journal of Avian Biology,2012,1.017875992,0.125
+obs052,Calero-Riestra 2016 Malaria Journal,2016,-0.288636999,0.009803922
+obs053,Galvan et al. 2012 Journal of Avian Biology,2012,0.21631183,0.004081633
+obs054,Galvan et al. 2012 Journal of Avian Biology,2012,-0.117538299,0.029411765
+obs055,Holldorf et al. 2015 PLoS One,2015,0.161576906,0.00456621
+obs056,Holldorf et al. 2015 PLoS One,2015,0.195627511,0.00456621
+obs057,Galvan et al. 2012 Journal of Avian Biology,2012,0.071119666,0.020408163
+obs058,Ishak et al. 2010 J. Raptor. Res,2010,-0.29125411,0.011764706
+obs059,Galvan et al. 2012 Journal of Avian Biology,2012,-0.058065169,0.005076142
+obs060,Galvan et al. 2012 Journal of Avian Biology,2012,0.104377407,0.00228833
+obs061,Parmenter et al. 2013 Estuaries and Coasts,2013,0.16656985,0.003278689
+obs062,Lyons et al. 2001 Veterinary Parasitology,2001,0.787088897,0.0625
+obs063,Nelson et al. 2003 Journal of Wildlife Disease,2003,-0.010214787,0.001577287
+obs064,Nelson et al. 2003 Journal of Wildlife Disease,2003,0.112302892,0.001577287
+obs065,Nelson et al. 2003 Journal of Wildlife Disease,2003,-0.125764817,0.001577287
+obs066,Nelson et al. 2003 Journal of Wildlife Disease,2003,-0.041277887,0.001577287
+obs067,Nelson et al. 2003 Journal of Wildlife Disease,2003,-0.020628662,0.001577287
+obs068,Nelson et al. 2003 Journal of Wildlife Disease,2003,0,0.001577287
+obs069,Nelson et al. 2003 Journal of Wildlife Disease,2003,0.108405698,0.001577287
+obs070,Nelson et al. 2003 Journal of Wildlife Disease,2003,0.014636657,0.001577287
+obs071,Nelson et al. 2003 Journal of Wildlife Disease,2003,-0.029554043,0.001577287
+obs072,Sacks & Blejwas 2000 Canadian Journal of Zoology,2000,-0.652435518,0.05
+obs073,Castro et al. 2016 International Journal of Acarology,2016,-0.998986278,0.003205128
+obs074,Castro et al. 2016 International Journal of Acarology,2016,2.28271406,0.003205128
+obs075,Pegg et al. 2011 Ecology of Freshwater Fish,2011,0.023902296,0.027777778
+obs076,Pegg et al. 2011 Ecology of Freshwater Fish,2011,-0.616033888,0.090909091
+obs077,Pegg et al. 2011 Ecology of Freshwater Fish,2011,0.323876487,0.015151515
+obs078,Pegg et al. 2011 Ecology of Freshwater Fish,2011,0.11387322,0.011494253
+obs079,Pegg et al. 2011 Ecology of Freshwater Fish,2011,0.094607277,0.011764706
+obs080,Pegg et al. 2011 Ecology of Freshwater Fish,2011,0.146409703,0.006578947
+obs081,Harper 1999 Animal Behaviour,1999,0.395392825,0.043478261
+obs082,Harper 1999 Animal Behaviour,1999,-0.458670484,0.034482759
+obs083,Harper 1999 Animal Behaviour,1999,0.031009936,0.025641026
+obs084,Galvan et al. 2012 Journal of Avian Biology,2012,0.048036915,0.001404494
+obs085,Galvan et al. 2012 Journal of Avian Biology,2012,-0.087220503,0.008547009
+obs086,Harper 1999 Animal Behaviour,1999,0.169607861,0.025641026
+obs087,Harper 1999 Animal Behaviour,1999,-0.027006564,0.03125
+obs088,Harper 1999 Animal Behaviour,1999,-0.323867791,0.038461538
+obs089,Galvan et al. 2012 Journal of Avian Biology,2012,-0.152163611,0.000791766
+obs090,Garvin et al. 2006 Journal of Parasitology,2006,-0.00376183,0.009708738
+obs091,Garvin et al. 2006 Journal of Parasitology,2006,0.06437887,0.009708738
+obs092,Galvan et al. 2012 Journal of Avian Biology,2012,-0.095287349,0.032258065
+obs093,Galvan et al. 2012 Journal of Avian Biology,2012,0.240533924,0.015151515
+obs094,Vicente et al. 2004 Parasitology,2004,0.164696272,0.007633588
+obs095,Vicente et al. 2004 Parasitology,2004,-0.302208622,0.011363636
+obs096,Vicente et al. 2004 Parasitology,2004,-0.12937045,0.003875969
+obs097,Vicente et al. 2007 Naturwissenschaften,2007,-0.331647109,0.032258065
+obs098,Vicente et al. 2007 Naturwissenschaften,2007,0.120581028,0.026315789
+obs099,Vicente et al. 2007 Naturwissenschaften,2007,-0.140925576,0.076923077
+obs100,Vicente et al. 2007 Naturwissenschaften,2007,0.100335348,0.009259259
+obs101,Vicente et al. 2007 Oecologia,2007,-0.112435991,0.002525253
+obs102,Vicente et al. 2007 Naturwissenschaften,2007,-0.255412812,0.006944444
+obs103,Vicente et al. 2007 Naturwissenschaften,2007,-0.213171347,0.028571429
+obs104,Vicente et al. 2007 Naturwissenschaften,2007,0.13073985,0.026315789
+obs105,Vicente et al. 2007 Naturwissenschaften,2007,0.171666664,0.066666667
+obs106,Irvine et al. 2006 Parasitology,2006,-0.341552757,0.011904762
+obs107,Galvan et al. 2012 Journal of Avian Biology,2012,0.158309385,0.004115226
+obs108,Aeby et al. 2002 Behavioral Ecology Sociobiology,2002,0.408617676,0.023809524
+obs109,Ostlund-Nilsson et al. 2005 MARINE ECOLOGY PROGRESS SERIES,2005,-0.041206652,0.023255814
+obs110,Galvan et al. 2012 Journal of Avian Biology,2012,0.045030412,0.002392344
+obs111,Reinhardt 2001 Behavioral Ecology and Sociobiology,2001,0.052046946,0.018181818
+obs112,Reinhardt 2001 Behavioral Ecology and Sociobiology,2001,-0.065091774,0.018181818
+obs113,Cloutier et al. 2011 J. Roy. Soc. New Zealand,2011,-0.352423095,0.004166667
+obs114,Galvan et al. 2012 Journal of Avian Biology,2012,0.168578995,0.027027027
+obs115,Villanua et al. 2006 Ibis,2006,-0.203077337,0.011363636
+obs116,Ludwig et al. 2010 Journal of Wildlife Diseases,2010,-0.222888218,0.007407407
+obs117,Harmon et al. 2015 J. Fish Biol.,2015,0.182304227,0.007352941
+obs118,Hanke et al. 2015 Journal of Shellfish Research,2015,-1.8500986,0.010309278
+obs119,Hanke et al. 2015 Journal of Shellfish Research,2015,-1.883115359,0.010309278
+obs120,Hanke et al. 2015 Journal of Shellfish Research,2015,-0.353167597,0.010309278
+obs121,Hanke et al. 2015 Journal of Shellfish Research,2015,-1.226967873,0.010309278
+obs122,Tripet & Richner 1999 Ecology,1999,-0.141501049,0.027027027
+obs123,Tripet & Richner 1999 Ecology,1999,-0.144834739,0.027027027
+obs124,Tripet & Richner 1997 Oikos,1997,-0.069832286,0.03125
+obs125,Harper 1999 Animal Behaviour,1999,-0.188190607,0.033333333
+obs126,Harper 1999 Animal Behaviour,1999,-0.464814471,0.02173913
+obs127,Galvan et al. 2012 Journal of Avian Biology,2012,0.014000915,0.005464481
+obs128,Hurtrez-Bousses et al. 1997 Oecologia,1997,-0.385309404,0.021276596
+obs129,Gibbs et al. 2005 Journal of Wildlife Diseases,2005,-0.292718248,0.017857143
+obs130,Galvan et al. 2012 Journal of Avian Biology,2012,0.070114671,0.034482759
+obs131,Perez-Buitrago et al. 2008 Endangered Species Research,2008,0.42364893,0.016393443
+obs132,Britton et al. 2011 PLoS One,2011,-0.53393633,0.014925373
+obs133,Britton et al. 2011 PLoS One,2011,0.533710501,0.014925373
+obs134,Semeniuk & Rothley 2008 Marine Ecology Progress Series,2008,0.225606811,0.007246377
+obs135,Galvan et al. 2012 Journal of Avian Biology,2012,0.95714348,0.083333333
+obs136,Marzal et al. 2013 Journal of Avian Biology,2013,-0.262110756,0.00729927
+obs137,Marzal et al. 2008 Journal of Evolutionary Biology,2008,-0.223466134,0.009174312
+obs138,Marzal et al. 2013 Oecologia,2013,-0.149312841,0.002267574
+obs139,Puttker et al. 2008 Ecological Research,2008,-0.203774438,0.041666667
+obs140,Puttker et al. 2008 Ecological Research,2008,-0.321652106,0.041666667
+obs141,Elsheikha et al. 2004 Veterinary Parasitology,2004,-0.469786113,0.004926108
+obs142,Polak 1998 Ecology,1998,-0.295314167,0.018518519
+obs143,Polak 1998 Ecology,1998,-0.464452803,0.008064516
+obs144,Galvan et al. 2012 Journal of Avian Biology,2012,-0.121595763,0.052631579
+obs145,Galvan et al. 2012 Journal of Avian Biology,2012,0.183016366,0.03125
+obs146,Figuerola et al. 1999 Functional Ecology,1999,0.156037141,0.020408163
+obs147,Figuerola et al. 1999 Functional Ecology,1999,-0.861396642,0.05
+obs148,Figuerola et al. 1999 Functional Ecology,1999,0.199652165,0.016393443
+obs149,Figuerola et al. 1999 Functional Ecology,1999,0.133982678,0.05
+obs150,Harper 1999 Animal Behaviour,1999,-0.19026308,0.034482759
+obs151,Galvan et al. 2012 Journal of Avian Biology,2012,0.205859519,0.019607843
+obs152,Galvan et al. 2012 Journal of Avian Biology,2012,0.263964597,0.003875969
+obs153,Piksa et al. 2011 Folia Parasitologia,2011,-0.318334288,0.037037037
+obs154,Piksa et al. 2011 Folia Parasitologia,2011,-0.094278338,0.006849315
+obs155,Debeffe et al. 2016 Parasitology,2016,-0.346198637,0.004329004
+obs156,Debeffe et al. 2016 Parasitology,2016,-0.062079626,0.004761905
+obs157,Debeffe et al. 2016 Parasitology,2016,-0.18611973,0.002252252
+obs158,Galvan et al. 2012 Journal of Avian Biology,2012,-0.07413552,0.0625
+obs159,Gaglio et al. 2010 European Journal of Wildlife Research,2010,0.444055027,0.014084507
+obs160,Harper 1999 Animal Behaviour,1999,-0.348449765,0.037037037
+obs161,Harper 1999 Animal Behaviour,1999,-0.360892579,0.04
+obs162,Harper 1999 Animal Behaviour,1999,-0.267181208,0.029411765
+obs163,Harper 1999 Animal Behaviour,1999,-0.555995207,0.03125
+obs164,Galvan et al. 2012 Journal of Avian Biology,2012,0.077152721,0.00152207
+obs165,Carrasco et al. 2011 Journal of Wildlife Disease,2011,-0.399266526,0.003717472
+obs166,Christensen et al. 2015 Journal of Wildlife Diseases,2015,-0.519130667,0.043478261
+obs167,Dawson & Bortolotti 2000 The Auk,2000,-0.010000333,0.006289308
+obs168,Dawson & Bortolotti 2000 The Auk,2000,0.079560771,0.007462687
+obs169,Dawson & Bortolotti 2000 The Auk,2000,0.1491131,0.01010101
+obs170,Dawson & Bortolotti 2000 The Auk,2000,0.010000333,0.02173913
+obs171,Dawson & Bortolotti 2000 The Auk,2000,0.131203761,0.015151515
+obs172,Dawson & Bortolotti 2000 The Auk,2000,-0.100335348,0.016666667
+obs173,Dawson & Bortolotti 2000 The Auk,2000,-0.137588235,0.005617978
+obs174,Dawson & Bortolotti 2000 The Auk,2000,-0.255412812,0.018181818
+obs175,Dawson & Bortolotti 2000 The Auk,2000,0.171666664,0.015873016
+obs176,Millan & Casanova 2009 Parasitol Res,2009,-0.298566264,0.018181818
+obs177,Spada et al. 2013 Journal of Feline Medicine and Surgery,2013,-0.915880138,0.007352941
+obs178,Serrano & Millan 2014 Epidemiology and Infection,2014,-0.604024894,0.018518519
+obs179,Fromont et al. 2000 Veterinary Record,2000,-0.439026733,0.045454545
+obs180,Fromont et al. 2000 Veterinary Record,2000,-0.528134711,0.071428571
+obs181,Galvan et al. 2012 Journal of Avian Biology,2012,0.118552299,0.003584229
+obs182,Harper 1999 Animal Behaviour,1999,-0.33610983,0.041666667
+obs183,Harper 1999 Animal Behaviour,1999,-0.357488589,0.032258065
+obs184,Galvan et al. 2012 Journal of Avian Biology,2012,0.27794277,0.004830918
+obs185,Renner et al. 2016 International Journal for Parasitology,2016,-0.05363062,0.006493506
+obs186,Renner et al. 2016 International Journal for Parasitology,2016,-0.047742693,0.006493506
+obs187,Renner et al. 2016 International Journal for Parasitology,2016,-0.005806655,0.006493506
+obs188,Renner et al. 2016 International Journal for Parasitology,2016,-0.020325403,0.006493506
+obs189,Renner et al. 2016 International Journal for Parasitology,2016,-0.08019659,0.006493506
+obs190,Renner et al. 2016 International Journal for Parasitology,2016,-0.039028408,0.006493506
+obs191,Shaw et al. 2010 Journal of Parasitology,2010,0.259215162,0.002688172
+obs192,Galvan et al. 2012 Journal of Avian Biology,2012,0.027006564,0.005681818
+obs193,Galvan et al. 2012 Journal of Avian Biology,2012,-0.115511019,0.007633588
+obs194,Garcia-Ramirez et al. 2005 J. Nat. Hist.,2005,0.239475208,0.032258065
+obs195,Garcia-Ramirez et al. 2005 J. Nat. Hist.,2005,0.315023237,0.032258065
+obs196,Deaton 2009 Behavioural Processes,2009,-0.325750146,0.020833333
+obs197,Deaton 2009 Behavioural Processes,2009,-0.211125028,0.020833333
+obs198,Kurtz et al. 2006 Proc Roy Soc B,2006,-0.25683214,0.008547009
+obs199,Bakker & Mundwiler 1999 Freshwater Biology,1999,-0.452365369,0.035714286
+obs200,Bakker & Mundwiler 1999 Freshwater Biology,1999,-0.415205968,0.038461538
+obs201,Arnott et al. 2000 Proc Roy Soc B,2000,0.227625155,0.01369863
+obs202,Arnott et al. 2000 Proc Roy Soc B,2000,0.525431874,0.025
+obs203,Nordeide et al. 2016 Parasitology,2016,0.169464208,0.005813953
+obs204,Nordeide et al. 2016 Parasitology,2016,-0.333992502,0.00212766
+obs205,Heins 2012 Biological Journal of the Linnean Society,2012,-0.06048406,0.000506586
+obs206,Lehmann 1992 Parasitology,1992,0.020002667,0.005617978
+obs207,Lehmann 1992 Parasitology,1992,-0.234189467,0.005617978
+obs208,Lehmann 1992 Parasitology,1992,-0.020002667,0.005617978
+obs209,Lehmann 1992 Parasitology,1992,-0.070114671,0.005617978
+obs210,Lehmann 1992 Parasitology,1992,-0.120581028,0.005617978
+obs211,Hoffnagle et al. 2006 Journal of Aquatic Animal Health,2006,-0.237359351,0.014285714
+obs212,Hoffnagle et al. 2006 Journal of Aquatic Animal Health,2006,-0.298566264,0.014285714
+obs213,Hoffnagle et al. 2006 Journal of Aquatic Animal Health,2006,-0.198569333,0.012658228
+obs214,Hoffnagle et al. 2006 Journal of Aquatic Animal Health,2006,-0.270403228,0.012658228
+obs215,Pelabon et al. 2005 Marine Biology,2005,-0.3127766,0.012048193
+obs216,Pelabon et al. 2005 Marine Biology,2005,0.064347676,0.012048193
+obs217,Puttker et al. 2008 Ecological Research,2008,-0.083191387,0.066666667
+obs218,Puttker et al. 2008 Ecological Research,2008,-0.364304607,0.066666667
+obs219,Hawley et al. 2012 Functional Ecology,2012,-0.181260525,0.037037037
+obs220,Hawley et al. 2012 Functional Ecology,2012,-0.300430633,0.037037037
+obs221,Galvan et al. 2012 Journal of Avian Biology,2012,0.430812377,0.125
+obs222,Galvan et al. 2012 Journal of Avian Biology,2012,-0.107411176,0.011363636
+obs223,Galvan et al. 2012 Journal of Avian Biology,2012,0.100335348,0.00016592
+obs224,Eberhardt et al. 2013 PLoS One,2013,-0.165181231,0.041666667
+obs225,Salas & Herrera 2004 Mem Inst Oswaldo Cruz,2004,-0.298566264,0.027027027
+obs226,Salas & Herrera 2004 Mem Inst Oswaldo Cruz,2004,0.171666664,0.027027027
+obs227,Salas & Herrera 2004 Mem Inst Oswaldo Cruz,2004,-0.354092529,0.027027027
+obs228,Salas & Herrera 2004 Mem Inst Oswaldo Cruz,2004,-0.040021354,0.058823529
+obs229,Eberhardt et al. 2013 PLoS One,2013,-0.40685135,0.041666667
+obs230,Salas & Herrera 2004 Mem Inst Oswaldo Cruz,2004,-0.040021354,0.037037037
+obs231,Eberhardt et al. 2013 PLoS One,2013,-0.308658637,0.041666667
+obs232,Eberhardt et al. 2013 PLoS One,2013,-0.438851519,0.041666667
+obs233,Eberhardt et al. 2013 PLoS One,2013,-0.242216509,0.041666667
+obs234,Salas & Herrera 2004 Mem Inst Oswaldo Cruz,2004,-0.549306144,0.058823529
+obs235,Bridge 2003 International Journal of Acarology,2003,-0.265100812,0.014084507
+obs236,Bridge 2003 International Journal of Acarology,2003,-0.425806354,0.014084507
+obs237,Ruiz et al. 1995 Ornis Fennica,1995,0.647522845,0.055555556
+obs238,Ruiz et al. 1995 Ornis Fennica,1995,0.056058649,0.071428571
+obs239,Ruiz et al. 1995 Ornis Fennica,1995,-0.080171325,0.041666667
+obs240,Ruiz et al. 1995 Ornis Fennica,1995,-0.070114671,0.045454545
+obs241,Garvin et al. 2006 Journal of Parasitology,2006,-0.43146913,0.0625
+obs242,Garvin et al. 2006 Journal of Parasitology,2006,-0.161250443,0.0625
+obs243,Fokidis et al. 2008 J. Avian. Biol.,2008,-0.320545409,0.045454545
+obs244,Munyeme et al. 2010 Preventive Veterinary Medicine,2010,-0.312340921,0.00862069
+obs245,Dudek et al. 2016 Ticks and Tick-borne Diseases,2016,0.099190408,0.002012072
+obs246,Stuart-Fox et al. 2009 PLoS One,2009,-0.276863823,0.008849558
+obs247,Martinez-Padilla et al. 2011 Biology Letters,2011,-0.136079518,0.001490313
+obs248,Schei et al. 2005 Ornis Fennica,2005,-0.477123872,0.032258065
+obs249,Galvan et al. 2012 Journal of Avian Biology,2012,0.286597332,0.014285714
+obs250,Bosch et al. 1997 Ornis Fennica,1997,-0.266108407,0.045454545
+obs251,Bosch et al. 1997 Ornis Fennica,1997,-0.459896681,0.04
+obs252,Lemly & Esch 1984 Journal of Parasitology,1984,-1.68106793,0.00228833
+obs253,Lemly & Esch 1984 Journal of Parasitology,1984,-1.985655641,0.005649718
+obs254,Murray et al. 1998 Ecology,1998,-0.234189467,0.006756757
+obs255,Keith et al. 1986 J Wildl Dis.,1986,-0.110976126,0.003952569
+obs256,Keith et al. 1986 J Wildl Dis.,1986,-0.109492534,0.003952569
+obs257,Chroust et al. 2012 Veterinarni Medicina,2012,-0.810743125,0.002785515
+obs258,Chroust et al. 2012 Veterinarni Medicina,2012,-0.928727364,0.002785515
+obs259,Iason & Boag 1988 Journal of Wildlife Diseases,1988,-0.120581028,0.04
+obs260,Iason & Boag 1988 Journal of Wildlife Diseases,1988,-0.298566264,0.0625
+obs261,Newey et al. 2004 Wildlife Biology,2004,-0.40504856,0.025641026
+obs262,Iason & Boag 1988 Journal of Wildlife Diseases,1988,0.202732554,0.04
+obs263,Iason & Boag 1988 Journal of Wildlife Diseases,1988,-0.365443754,0.055555556
+obs264,Sala-Bozano et al. 2012 Biol. J. Linn. Soc,2012,-0.647669328,0.003558719
+obs265,Stockwell et al. 2016 Wildlfe Research,2016,0.004645705,0.005347594
+obs266,Stockwell et al. 2016 Wildlfe Research,2016,0.108462624,0.006756757
+obs267,Stockwell et al. 2016 Wildlfe Research,2016,0.249077696,0.022222222
+obs268,Galvan et al. 2012 Journal of Avian Biology,2012,-0.067100525,0.0625
+obs269,Galvan et al. 2012 Journal of Avian Biology,2012,0.405916575,0.034482759
+obs270,Galvan et al. 2012 Journal of Avian Biology,2012,0.330533423,0.018518519
+obs271,Galvan et al. 2012 Journal of Avian Biology,2012,0.088228219,0.007142857
+obs272,Galvan et al. 2012 Journal of Avian Biology,2012,0.304034086,0.0625
+obs273,Simpson et al. 2009 Veterinary Record,2009,-0.13534869,0.005154639
+obs274,Robert & Schwanz 2013 Journal of Wildlife Management,2013,-0.330842045,0.018518519
+obs275,Robert & Schwanz 2013 Journal of Wildlife Management,2013,-0.290448903,0.01754386
+obs276,Roberts et al. 2010 Journal of Wildlife Diseases,2010,0.282730895,0.011904762
+obs277,Puttker et al. 2008 Ecological Research,2008,-0.113484684,0.037037037
+obs278,Puttker et al. 2008 Ecological Research,2008,0.084198409,0.037037037
+obs279,Galvan et al. 2012 Journal of Avian Biology,2012,-0.226810893,0.0625
+obs280,Werner et al. 2013 Physiology and Behavior,2013,-0.22260549,0.076923077
+obs281,Werner et al. 2013 Physiology and Behavior,2013,-0.21631183,0.076923077
+obs282,Werner et al. 2013 Physiology and Behavior,2013,-0.254346429,0.076923077
+obs283,Ferrer-Maza et al. 2014 ICES Journal of Marine Science,2014,-0.324976786,0.022222222
+obs284,Ferrer-Maza et al. 2014 ICES Journal of Marine Science,2014,-0.561379165,0.055555556
+obs285,Ferrer-Maza et al. 2014 ICES Journal of Marine Science,2014,0.484700279,0.034482759
+obs286,Ferrer-Maza et al. 2014 ICES Journal of Marine Science,2014,0.473471561,0.055555556
+obs287,Ferrer-Maza et al. 2014 ICES Journal of Marine Science,2014,-0.40005965,0.034482759
+obs288,Ferrer-Maza et al. 2014 ICES Journal of Marine Science,2014,-0.3884231,0.034482759
+obs289,Hoi et al. 2010 Journal of Ornithology,2010,0.575164494,0.012048193
+obs290,Hoi et al. 2010 Journal of Ornithology,2010,0.575164494,0.012048193
+obs291,Rafalinirina et al. 2015 MCD,2015,0.040021354,0.008547009
+obs292,Rafalinirina et al. 2015 MCD,2015,-0.140925576,0.008547009
+obs293,Rafalinirina et al. 2015 MCD,2015,0.040021354,0.009615385
+obs294,Rafalinirina et al. 2015 MCD,2015,-0.080171325,0.008547009
+obs295,Rafalinirina et al. 2015 MCD,2015,-0.192337169,0.008547009
+obs296,Rafalinirina et al. 2015 MCD,2015,0.13073985,0.009615385
+obs297,Rafalinirina et al. 2015 MCD,2015,0.020002667,0.008547009
+obs298,Rafalinirina et al. 2015 MCD,2015,-0.192337169,0.008547009
+obs299,Rafalinirina et al. 2015 MCD,2015,0.080171325,0.009615385
+obs300,Rafalinirina et al. 2015 MCD,2015,0.13073985,0.00862069
+obs301,Rafalinirina et al. 2015 MCD,2015,0,0.00862069
+obs302,Rafalinirina et al. 2015 MCD,2015,-0.020002667,0.009708738
+obs303,Abollo et al. 2001 Journal of Fish Diseases,2001,-0.378644829,0.010309278
+obs304,Southard et al. 2009 J. Aquatic Animal Health,2009,0.011046365,0.000348068
+obs305,Inendino et al. 2005 Journal of Aquatic Animal Health,2005,-0.537038822,0.022222222
+obs306,Jackson et al. 2014 PLoS Biology,2014,0.11473456,0.001745201
+obs307,Jackson et al. 2014 PLoS Biology,2014,-0.104553018,0.001745201
+obs308,Jackson et al. 2014 PLoS Biology,2014,0.087014088,0.001745201
+obs309,Jackson et al. 2014 PLoS Biology,2014,0.100369514,0.001745201
+obs310,Jackson et al. 2014 PLoS Biology,2014,0.089197494,0.001745201
+obs311,Jackson et al. 2014 PLoS Biology,2014,0.227623999,0.001745201
+obs312,Jackson et al. 2014 PLoS Biology,2014,0.104001612,0.001745201
+obs313,Fokidis et al. 2008 J. Avian. Biol.,2008,-0.090244188,0.033333333
+obs314,Loureno & Palmeirim 2007 Journal of Zoology,2007,-0.618381314,0.111111111
+obs315,Loureno & Palmeirim 2007 Journal of Zoology,2007,-0.887183863,0.111111111
+obs316,Loureno & Palmeirim 2007 Journal of Zoology,2007,-0.435611223,0.111111111
+obs317,Galvan et al. 2012 Journal of Avian Biology,2012,1.121240584,0.1
+obs318,Galvan et al. 2012 Journal of Avian Biology,2012,0.261823156,0.01369863
+obs319,Shurulinkov et al. 2012 Parasitology Research,2012,-0.079808796,0.00212766
+obs320,Shurulinkov et al. 2012 Parasitology Research,2012,-0.149382537,0.00212766
+obs321,Shurulinkov et al. 2012 Parasitology Research,2012,-0.109241139,0.00212766
+obs322,Galvan et al. 2012 Journal of Avian Biology,2012,0.092260889,0.035714286
+obs323,Dubay et al. 2014 J. Parasitol.,2014,0.305539459,0.014285714
+obs324,Hakkarainen et al. 2007 Parasitology,2007,-0.133753104,0.001310616
+obs325,Orlova et al. 2012 Russian Journal of Ecology,2012,0.484700279,0.012345679
+obs326,Witsenburg et al. 2014 Parasites & Vectors,2014,-0.486856306,0.005263158
+obs327,Zahn & Rupp 2004 Journal of the Zoological Society of London,2004,-0.867300528,0.1
+obs328,Lucan 2006 Folia Parasitologica,2006,-0.472230804,0.023255814
+obs329,Lucan 2006 Folia Parasitologica,2006,0.435611223,0.034482759
+obs330,Lucan 2006 Folia Parasitologica,2006,-0.309519604,0.023809524
+obs331,Lucan 2006 Folia Parasitologica,2006,0.223656109,0.008695652
+obs332,Lucan 2006 Folia Parasitologica,2006,-0.536060337,0.02173913
+obs333,Zahn & Rupp 2004 Journal of the Zoological Society of London,2004,-1.020327758,0.125
+obs334,Zahn & Rupp 2004 Journal of the Zoological Society of London,2004,-1.738049345,0.333333333
+obs335,Zahn & Rupp 2004 Journal of the Zoological Society of London,2004,-0.928727364,0.142857143
+obs336,Zahn & Rupp 2004 Journal of the Zoological Society of London,2004,-1.421925871,0.5
+obs337,Zahn & Rupp 2004 Journal of the Zoological Society of London,2004,-0.887183863,0.333333333
+obs338,Postawa et al. 2014 Folia Parasitologia,2014,-0.357488589,0.035714286
+obs339,Postawa et al. 2014 Folia Parasitologia,2014,0.438017735,0.04
+obs340,Postawa et al. 2014 Folia Parasitologia,2014,-0.39422868,0.045454545
+obs341,Postawa et al. 2014 Folia Parasitologia,2014,-0.059068603,0.041666667
+obs342,Postawa et al. 2014 Folia Parasitologia,2014,0.339465352,0.045454545
+obs343,Postawa et al. 2014 Folia Parasitologia,2014,-0.149095025,0.035714286
+obs344,Postawa et al. 2014 Folia Parasitologia,2014,0.146029224,0.025
+obs345,Piksa et al. 2011 Folia Parasitologia,2011,-0.004000021,0.032258065
+obs346,Piksa et al. 2011 Folia Parasitologia,2011,-0.165494508,0.026315789
+obs347,Gobush et al. 2011 Endangered Species Research,2011,-0.393258256,0.03030303
+obs348,Marcus et al. 2014 Parasitology Research,2014,-0.322402314,0.012048193
+obs349,Schulte-Hostedde & Elsasser 2011 Journal of Mammalogy,2011,0.316126175,0.025641026
+obs350,Schulte-Hostedde & Elsasser 2011 Journal of Mammalogy,2011,0.133792642,0.025641026
+obs351,Santi et al. 2006 Canadian Journal of Zoology,2006,-0.042024722,0.001594896
+obs352,Schulte-Hostedde & Elsasser 2011 Journal of Mammalogy,2011,0.329420529,0.027777778
+obs353,Santi et al. 2006 Canadian Journal of Zoology,2006,-0.058895301,0.001594896
+obs354,Rothermel et al. 2016 Diseases of Aquatic Organisms,2016,0.036245142,0.01369863
+obs355,Nalubamba et al. 2015 International Journal of Poultry Science,2015,-0.069109817,0.006944444
+obs356,Nalubamba et al. 2015 International Journal of Poultry Science,2015,-0.042024722,0.006944444
+obs357,Nalubamba et al. 2015 International Journal of Poultry Science,2015,0.44647846,0.006944444
+obs358,Nalubamba et al. 2015 International Journal of Poultry Science,2015,0.438017735,0.006944444
+obs359,Waid et al. 1985 Journal of Wildlife Diseases,1985,-0.321054628,0.012345679
+obs360,Waid et al. 1985 Journal of Wildlife Diseases,1985,-0.539178624,0.012345679
+obs361,Galvan et al. 2012 Journal of Avian Biology,2012,0.194412895,0.007194245
+obs362,Puttker et al. 2008 Ecological Research,2008,-0.138886172,0.015151515
+obs363,Puttker et al. 2008 Ecological Research,2008,0.166522321,0.015151515
+obs364,Gust & Griffiths 2011 Wildlife Research,2011,0.153239304,0.005208333
+obs365,Millan 2011 Eur. J. Wild Res,2011,-0.348239793,0.034482759
+obs366,Reglero et al. 2007 Veterinary Parasitology,2007,0.922516295,0.015873016
+obs367,Reglero et al. 2007 Veterinary Parasitology,2007,-0.580478329,0.028571429
+obs368,Lemos et al. 2012 Journal of Fisheries Science,2012,1.97206674,0.166666667
+obs369,Sperry et al. 2009 Journal of Zoology,2009,-0.258679585,0.027027027
+obs370,Strum 2005 American Journal of Primatology,2005,-0.158309385,0.004237288
+obs371,Heylen et al. 2015 Scientific Reports,2015,0.650957351,0.04
+obs372,Harper 1999 Animal Behaviour,1999,-0.529501575,0.037037037
+obs373,Harper 1999 Animal Behaviour,1999,-0.696278061,0.035714286
+obs374,Galvan et al. 2012 Journal of Avian Biology,2012,0.004000021,0.001937984
+obs375,Heylen & Matthysen 2008 Functional Ecology,2008,-0.075756273,0.027027027
+obs376,Heylen & Matthysen 2008 Functional Ecology,2008,0.010400226,0.004424779
+obs377,Heylen & Matthysen 2008 Functional Ecology,2008,-0.122988387,0.025641026
+obs378,Gallizzi et al. 2008 Behavioral Ecology,2008,-0.145629186,0.004878049
+obs379,Norte et al. 2009 Ibis,2009,-0.246364706,0.005376344
+obs380,Norte et al. 2009 Ibis,2009,-0.277423333,0.005376344
+obs381,Heylen et al. 2015 Scientific Reports,2015,-0.273912056,0.04
+obs382,Galvan et al. 2012 Journal of Avian Biology,2012,-0.016001366,0.001618123
+obs383,Dolnik & Hoi 2010 Biol.l J. Linn. Soc,2010,-0.545802252,0.034482759
+obs384,Szabo et al. 2002 Acta Parasitologica,2002,-0.550640368,0.010309278
+obs385,Szabo et al. 2002 Acta Parasitologica,2002,-0.205859519,0.010309278
+obs386,Szabo et al. 2002 Acta Parasitologica,2002,-0.389582211,0.010309278
+obs387,Szabo et al. 2002 Acta Parasitologica,2002,-0.25008653,0.010309278
+obs388,Szabo et al. 2002 Acta Parasitologica,2002,-0.466047199,0.010309278
+obs389,Galvan et al. 2012 Journal of Avian Biology,2012,0.004000021,0.003012048
+obs390,Galvan et al. 2012 Journal of Avian Biology,2012,0.02200355,0.004761905
+obs391,Butynski 1982 Journal of Zoology,1982,0.076146835,0.002645503
+obs392,Butynski 1982 Journal of Zoology,1982,0.048036915,0.001795332
+obs393,Comas et al. 2014 Acta Herpetologica,2014,0.08601531,0.00877193
+obs394,Comas et al. 2014 Acta Herpetologica,2014,-0.035114924,0.00877193
+obs395,Comas et al. 2014 Acta Herpetologica,2014,0.217576156,0.00877193
+obs396,Comas et al. 2014 Acta Herpetologica,2014,0.022707159,0.00877193
+obs397,Comas et al. 2014 Acta Herpetologica,2014,-0.109860329,0.00877193
+obs398,Comas et al. 2014 Acta Herpetologica,2014,0.187027703,0.00877193
+obs399,Comas et al. 2014 Acta Herpetologica,2014,0.15107533,0.00877193
+obs400,Tompkins et al. 1999 Oecologia,1999,-0.898728284,0.111111111
+obs401,Galvan et al. 2012 Journal of Avian Biology,2012,0.281183411,0.011363636
+obs402,Gethings et al. 2016 Veterinary Pathology,2016,-1.40713399,0.005649718
+obs403,Garvin et al. 2006 Journal of Parasitology,2006,-0.321403967,0.032258065
+obs404,Garvin et al. 2006 Journal of Parasitology,2006,-0.180851674,0.032258065
+obs405,Galvan et al. 2012 Journal of Avian Biology,2012,0.185084885,0.004464286
+obs406,Galvan et al. 2012 Journal of Avian Biology,2012,-0.273630739,0.090909091
+obs407,Kleindorfer et al. 2006 Emu,2006,-0.326508472,0.008130081
+obs408,Kleindorfer et al. 2006 Emu,2006,-0.325864642,0.052631579
+obs409,Galvan et al. 2012 Journal of Avian Biology,2012,0.02500521,0.00212766
+obs410,Galvan et al. 2012 Journal of Avian Biology,2012,0.343950879,0.083333333
+obs411,Galvan et al. 2012 Journal of Avian Biology,2012,0.049039273,0.005586592
+obs412,Garvin et al. 2006 Journal of Parasitology,2006,-0.011735561,0.041666667
+obs413,Garvin et al. 2006 Journal of Parasitology,2006,-0.346994628,0.041666667
+obs414,Garvin et al. 2006 Journal of Parasitology,2006,-0.007271496,0.016949153
+obs415,Garvin et al. 2006 Journal of Parasitology,2006,-0.26913883,0.016949153
+obs416,Davis et al. 2009 EcoHealth,2009,1.434609719,0.01010101
+obs417,Garrido & Perez-Mellado 2014 Evolutionary Ecology Research,2014,0.076015363,0.045454545
+obs418,Garrido & Perez-Mellado 2015 Eur J Wildl Res,2015,-0.270992912,0.009803922
+obs419,Garrido & Perez-Mellado 2015 Eur J Wildl Res,2015,-0.189936086,0.005747126
+obs420,Amo et al. 2005 Parasitol Res,2005,0.302395787,0.014084507
+obs421,Galvan et al. 2012 Journal of Avian Biology,2012,0.482195263,0.142857143
+obs422,Stephenson et al. 2015 Biology Letters,2015,-0.153078169,0.00033389
+obs423,Stephenson et al. 2015 Biology Letters,2015,-0.158863672,0.00033389
+obs424,Guagliardo et al. 2009 Helminthologia,2009,-0.298566264,0.014285714
+obs425,Galvan et al. 2012 Journal of Avian Biology,2012,0.611240885,0.0625
+obs426,Harper 1999 Animal Behaviour,1999,-0.202732554,0.032258065
+obs427,Harper 1999 Animal Behaviour,1999,0.106399703,0.041666667
+obs428,Galvan et al. 2012 Journal of Avian Biology,2012,0.059068603,0.014285714
+obs429,Amo et al. 2007 Canadian Journal of Zoology,2007,-0.451058706,0.022222222
+obs430,Gangloff et al. 2008 Hydrobiologia,2008,-0.638555031,0.038461538
+obs431,Gangloff et al. 2008 Hydrobiologia,2008,-0.414667188,0.038461538
+obs432,Blanco et al. 1997 Journal of Avian Biology,1997,0.192337169,0.00591716
+obs433,Blanco et al. 1997 Journal of Avian Biology,1997,0.161386696,0.004237288
+obs434,Crespi et al. 2015 NA,2015,-0.030860716,0.001351351
+obs435,Pollock et al. 2009 Arctic,2009,0.298566264,0.045454545
+obs436,Taylor et al. 2005 J. Parasitol.,2005,-0.13073985,0.026315789
+obs437,Taylor et al. 2005 J. Parasitol.,2005,0.030009005,0.026315789
+obs438,Galvan et al. 2012 Journal of Avian Biology,2012,0.069109817,0.015384615
+obs439,Kelehear et al. 2012 Parasitology,2012,0.050082048,0.01
+obs440,Kelehear et al. 2012 Parasitology,2012,0.033871291,0.003412969
+obs441,Francova & Ondrackova 2013 Journal of Fish Biology,2013,-0.867300528,0.055555556
+obs442,Francova & Ondrackova 2013 Journal of Fish Biology,2013,-0.59014516,0.055555556
+obs443,Francova & Ondrackova 2013 Journal of Fish Biology,2013,-0.536060337,0.0625
+obs444,Galvan et al. 2012 Journal of Avian Biology,2012,0.249022949,0.001443001
+obs445,Morgan et al. 2005 Journal of Wildlife Diseases,2005,-0.538695667,0.024390244
+obs446,Galvan et al. 2012 Journal of Avian Biology,2012,-0.249022949,0.111111111
+obs447,Galvan et al. 2012 Journal of Avian Biology,2012,-0.031009936,0.002673797
+obs448,Galvan et al. 2012 Journal of Avian Biology,2012,-0.110446916,0.001610306
+obs449,Senar et al. 1994 Ardea,1994,-0.336413041,0.03125
+obs450,Latta 2003 The Auk,2003,-0.136975779,0.003952569
+obs451,Latta 2003 The Auk,2003,-0.185546482,0.001838235
+obs452,Gunderson et al. 2009 Journal of Avian Biology,2009,0.375927707,0.034482759
+obs453,Gunderson et al. 2009 Journal of Avian Biology,2009,-0.358068157,0.03030303
+obs454,Gunderson et al. 2009 Journal of Avian Biology,2009,0.408617676,0.034482759
+obs455,Gunderson et al. 2009 Journal of Avian Biology,2009,-0.433997114,0.03030303
+obs456,Allender et al. 2016 Journal of Wildlife Diseases,2016,-0.133468879,0.01010101
+obs457,Galvan et al. 2012 Journal of Avian Biology,2012,0.415343091,0.055555556
+obs458,Godfrey et al. 2009 Parasitology,2009,-0.449849651,0.025641026
+obs459,Godfrey et al. 2009 Parasitology,2009,-0.594035558,0.025641026
+obs460,Godfrey et al. 2009 Parasitology,2009,-0.377270854,0.01754386
+obs461,Godfrey et al. 2009 Parasitology,2009,-0.394779689,0.01754386
+obs462,Godfrey et al. 2009 Parasitology,2009,-0.29909414,0.01754386
+obs463,Galvan et al. 2012 Journal of Avian Biology,2012,0.203774438,0.004347826
+obs464,"Zago et al. 2013 Rev. Bras. Parasitol. Vet., Jaboticabal",2013,-0.470991401,0.037037037
+obs465,Monticelli & Ramos 2012 Ibis,2012,-0.128805095,0.002512563
+obs466,Galvan et al. 2012 Journal of Avian Biology,2012,-0.143986873,0.020833333
+obs467,Galvan et al. 2012 Journal of Avian Biology,2012,-0.083191387,0.032258065
+obs468,Quillfeldt et al. 2014 Parasitology,2014,-0.300540275,0.019607843
+obs469,Rubio-Godoy et al. 2011 J. Parasitol.,2011,-0.801724935,0.058823529
+obs470,Atwill et al. 1997 Applied and Environmental Mircobiology,1997,0.035741317,0.009345794
+obs471,Atwill et al. 1997 Applied and Environmental Mircobiology,1997,-0.343609024,0.009345794
+obs472,Galvan et al. 2012 Journal of Avian Biology,2012,0.188190607,0.00203666
+obs473,Santiago-Alercon et al. 2013 J. Avian. Biol.,2013,-0.06976485,0.003401361
+obs474,Renner et al. 2016 International Journal for Parasitology,2016,0.074356539,0.007462687
+obs475,Renner et al. 2016 International Journal for Parasitology,2016,0.206809026,0.007462687
+obs476,Renner et al. 2016 International Journal for Parasitology,2016,-0.006323446,0.007462687
+obs477,Renner et al. 2016 International Journal for Parasitology,2016,-0.025432114,0.007462687
+obs478,Renner et al. 2016 International Journal for Parasitology,2016,-0.169801469,0.007462687
+obs479,Renner et al. 2016 International Journal for Parasitology,2016,-0.185301511,0.007462687
+obs480,Galvan et al. 2012 Journal of Avian Biology,2012,0.089236113,0.006802721
+obs481,Galvan et al. 2012 Journal of Avian Biology,2012,0.229970121,0.012345679
+obs482,Galvan et al. 2012 Journal of Avian Biology,2012,-0.215264538,0.017857143
+obs483,Galvan et al. 2012 Journal of Avian Biology,2012,0.183016366,0.009615385
+obs484,Galvan et al. 2012 Journal of Avian Biology,2012,0.155235044,0.076923077
+obs485,Anderson et al. 2013 International Journal for Parasitology,2013,-0.063663925,0.006134969
+obs486,Gorsich et al. 2014 International Journal for Parasitology,2014,-0.034729061,0.000728863
+obs487,Ezenwa & Jolles 2008 Animal Behaviour,2008,-0.014536725,0.006097561
+obs488,Ezenwa & Jolles 2008 Animal Behaviour,2008,-0.144570705,0.004484305
+obs489,Caron et al. 2003 Ecological Applications,2003,-0.707329989,0.041666667
+obs490,Budischak et al. 2012 International Journal for Parasitology: Parasites and Wildlife,2012,-0.042857662,0.003636364
+obs491,Budischak et al. 2012 International Journal for Parasitology: Parasites and Wildlife,2012,0.057513244,0.005
+obs492,Munang'andu et al. 2010 BMC Veterinary Research,2010,0.907644983,0.012048193
+obs493,Ezenwa & Jolles 2008 Animal Behaviour,2008,-0.104590738,0.004484305
+obs494,Ezenwa & Jolles 2008 Animal Behaviour,2008,0.059956603,0.006097561
+obs495,Caron et al. 2003 Ecological Applications,2003,-0.694449378,0.041666667
+obs496,Tella et al. 1995 Ardea,1995,-0.12476859,0.00952381
+obs497,Tella et al. 1995 Ardea,1995,-0.03668734,0.0078125
+obs498,Tella et al. 1995 Ardea,1995,0.090244188,0.05
+obs499,Tella et al. 1995 Ardea,1995,-0.070114671,0.00952381
+obs500,Tella et al. 1995 Ardea,1995,-0.018765196,0.05
+obs501,Tella et al. 1995 Ardea,1995,0.030009005,0.012195122
+obs502,Tella et al. 1995 Ardea,1995,-0.010000333,0.0078125
+obs503,Tella et al. 1995 Ardea,1995,0.030009005,0.010638298
+obs504,Tella et al. 1995 Ardea,1995,0.202732554,0.111111111
+obs505,Smallridge & Bull 2000 Parasitology Research,2000,0.162413138,0.028571429
+obs506,Smallridge & Bull 2000 Parasitology Research,2000,-0.162913709,0.003773585
+obs507,Smallridge & Bull 2000 Parasitology Research,2000,-0.100335348,0.041666667
+obs508,Fokidis et al. 2008 J. Avian. Biol.,2008,-0.13073985,0.023809524
+obs509,Hill et al. 2008 Applied and Environmental Mircobiology,2008,-0.339421922,0.006756757
+obs510,Harper 1999 Animal Behaviour,1999,-0.59014516,0.037037037
+obs511,Harper 1999 Animal Behaviour,1999,-0.201691104,0.04
+obs512,Galvan et al. 2012 Journal of Avian Biology,2012,-0.093269519,0.024390244
+obs513,Brown et al. 2006 Canadian Journal of Zoology,2006,-0.01059978,0.011235955
+obs514,Brown et al. 2006 Canadian Journal of Zoology,2006,-0.030009005,0.011235955
+obs515,Mayer et al. 2015 Austral Ecology,2015,0.299741293,0.011111111
+obs516,Galvan et al. 2012 Journal of Avian Biology,2012,-0.218407819,0.004347826
+obs517,Norte et al. 2013 Parasitology Research,2013,-0.29252021,0.012658228
+obs518,Norte et al. 2013 Parasitology Research,2013,-0.264482213,0.012820513
+obs519,Galvan et al. 2012 Journal of Avian Biology,2012,-0.038018307,0.010869565
+obs520,Norte et al. 2013 Parasitology Research,2013,-0.442277795,0.090909091
+obs521,Norte et al. 2013 Parasitology Research,2013,-0.552863456,0.090909091
+obs522,Galvan et al. 2012 Journal of Avian Biology,2012,0.284429817,0.076923077
+obs523,Descamps 2013 PLoS One,2013,-0.041891556,0.004504505
+obs524,Waterman et al. 2013 Canadian Journal of Zoology,2013,-0.070114671,0.034482759
+obs525,Waterman et al. 2013 Canadian Journal of Zoology,2013,-0.13073985,0.034482759
+obs526,Waterman et al. 2013 Canadian Journal of Zoology,2013,0.123738406,0.016393443
+obs527,Waterman et al. 2013 Canadian Journal of Zoology,2013,0.223656109,0.034482759
+obs528,Waterman et al. 2013 Canadian Journal of Zoology,2013,-0.192337169,0.034482759
+obs529,Waterman et al. 2013 Canadian Journal of Zoology,2013,0.200277873,0.016393443
+obs530,Waterman et al. 2013 Canadian Journal of Zoology,2013,-0.298566264,0.034482759
+obs531,Waterman et al. 2013 Canadian Journal of Zoology,2013,-0.070114671,0.034482759
+obs532,Garvin et al. 2006 Journal of Parasitology,2006,0.002966842,0.018518519
+obs533,Garvin et al. 2006 Journal of Parasitology,2006,-0.067599254,0.018518519
+obs534,Costa & Macedo 2005 Animal Behavior,2005,-0.192337169,0.012195122
+obs535,Costa & Macedo 2005 Animal Behavior,2005,-0.223656109,0.012195122
+obs536,Costa & Macedo 2005 Animal Behavior,2005,0.080171325,0.012345679
+obs537,Magalhaes et al. 2014 Wilson Journal of Ornithology,2014,0.010000333,0.052631579
+obs538,Jeffery et al. 2004 Canadian Journal of Zoology,2004,-0.13871531,0.002754821
+obs539,Jeffery et al. 2004 Canadian Journal of Zoology,2004,0.02115879,0.002754821
+obs540,Jeffery et al. 2004 Canadian Journal of Zoology,2004,-0.146214727,0.002754821
+obs541,Veronesi et al. 2014 Veterinary Parasitology,2014,-0.150615688,0.005681818
+obs542,Veronesi et al. 2014 Veterinary Parasitology,2014,-0.147556248,0.005681818
+obs543,Vervaeke et al. 2005 Acta Parasitologica,2005,-0.180843621,0.005617978
+obs544,Vervaeke et al. 2005 Acta Parasitologica,2005,-0.171459272,0.005617978
+obs545,Newman et al. 2002 Canadian Journal of Zoology,2002,-0.371894,0.020833333
+obs546,Newman et al. 2002 Canadian Journal of Zoology,2002,-0.874248919,0.020833333
+obs547,Newman et al. 2002 Canadian Journal of Zoology,2002,-0.34657359,0.020833333
+obs548,Newman et al. 2002 Canadian Journal of Zoology,2002,-0.63372511,0.020833333
+obs549,Lyons et al. 2001 Veterinary Parasitology,2001,0.591902902,0.045454545
+obs550,Sweazea et al. 2015 Zoology,2015,-0.002182382,0.090909091
+obs551,Bonier et al. 2007 Behavioral Ecology,2007,-0.34241787,0.052631579
+obs552,Bonier et al. 2007 Behavioral Ecology,2007,-0.396952676,0.05
+obs553,Bonier et al. 2007 Behavioral Ecology,2007,-0.34241787,0.052631579

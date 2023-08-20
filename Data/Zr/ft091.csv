@@ -1,0 +1,28 @@
+﻿obs_ID,study_ID,year_pub,es,var
+obs001,Alberto et al (2010) ,2010,0.648,0.021276596
+obs002,Alberto et al (2011) ,2011,1.116,0.021276596
+obs003,Billot et al. (2003) ,2003,0.187,0.002298851
+obs004,Bouza et al. (2006) ,2006,0.987,0.005347594
+obs005,Coleman & Brawley (2005a) ,2005,0.215,0.005076142
+obs006,Coleman & Brawley (2005b) ,2005,0.288,0.003003003
+obs007,Coleman et al (2011a) ,2011,0.98,0.001426534
+obs008,Coleman et al (2009) ,2009,1.02,0.034482759
+obs009,Coleman and Kelaher (2009),2009,0.014,0.002570694
+obs011,Coleman et al (2011b) ,2011,0.872,0.002487562
+obs012,Coleman et al (2011b) ,2011,0.123,0.001408451
+obs014,Coyer et al (2003) ,2003,0.959,0.000746269
+obs015,Engelen et al (2001),2001,0.62,0.005405405
+obs016,Fraser et al (2010) ,2010,0.255,0.00621118
+obs017,Kusumo et al. (2006) ,2006,0.671,0.004132231
+obs018,Kusumo & Druehl (2000) ,2000,0.558,0.014705882
+obs020,Martinez et al (2003),2003,0.831,0.008474576
+obs021,Muhlin and Brawley (2009) ,2009,0.969,0.004201681
+obs022,Tatarenkov et al (2007) ,2007,0.845,0.000835422
+obs023,Van der Strate et al. (2003) ,2003,0.409,0.00877193
+obs024,Van der Strate et al. (2003) ,2003,0.693,0.012195122
+obs025,Van der Strate et al. (2003) ,2003,0.576,0.016129032
+obs026,Van der Strate et al. (2003) ,2003,0.005,0.003703704
+obs027,Wright et al (2000),2000,0.927,0.011627907
+obs028,Wright et al (2000),2000,0.477,0.01754386
+obs029,Zhao et al. (2008) ,2008,0.975,0.012345679
+obs030,Zhao et al. (2007) ,2007,0.911,0.012345679

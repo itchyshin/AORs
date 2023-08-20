@@ -1,0 +1,522 @@
+SCIENTIFIC_NAME_tree,TipLabel,COMMON_NAME_tree,ebird_SCIENTIFIC_NAME,Taxonomy,Clade,BLFamilyLatin,BLFamilyEnglish,FamSequID,Order,OscSubOsc,matched
+Megapodius affinis,Megapodius_affinis,New Guinea Megapode,Megapodius decollatus,BL3,Megapodiidae,Megapodiidae,Megapodes,7,GALLIFORMES,NONPASSERIFORMES,No
+Colinus leucopogon,Colinus_leucopogon,Spot-bellied Bobwhite,Colinus cristatus,IOC27,Odontophoridae,Odontophoridae,New World quails,10,GALLIFORMES,NONPASSERIFORMES,No
+Phasianus versicolor,Phasianus_versicolor,Green Pheasant,Phasianus colchicus,IOC27,Phasianidae,Phasianidae,"Grouse, pheasants and partridges",11,GALLIFORMES,NONPASSERIFORMES,No
+Crossoptilon harmani,Crossoptilon_harmani,Tibetan Eared-pheasant,Crossoptilon crossoptilon,BL3,Phasianidae,Phasianidae,"Grouse, pheasants and partridges",11,GALLIFORMES,NONPASSERIFORMES,No
+Bonasa sewerzowi,Bonasa_sewerzowi,Chinese Grouse,Tetrastes sewerzowi,BL3,Phasianidae,Phasianidae,"Grouse, pheasants and partridges",11,GALLIFORMES,NONPASSERIFORMES,No
+Francolinus afer,Francolinus_afer,Red-necked Spurfowl,Pternistis afer,BL3,Phasianidae,Phasianidae,"Grouse, pheasants and partridges",11,GALLIFORMES,NONPASSERIFORMES,No
+Francolinus camerunensis,Francolinus_camerunensis,Mount Cameroon Francolin,Pternistis camerunensis,BL3,Phasianidae,Phasianidae,"Grouse, pheasants and partridges",11,GALLIFORMES,NONPASSERIFORMES,No
+Lophura hoogerwerfi,Lophura_hoogerwerfi,Aceh Pheasant,Lophura inornata,BL3,Phasianidae,Phasianidae,"Grouse, pheasants and partridges",11,GALLIFORMES,NONPASSERIFORMES,No
+Lophura hatinhensis,Lophura_hatinhensis,Vietnamese Pheasant,Lophura edwardsi,BL3,Phasianidae,Phasianidae,"Grouse, pheasants and partridges",11,GALLIFORMES,NONPASSERIFORMES,No
+Francolinus africanus,Francolinus_africanus,Grey-winged Francolin,Scleroptila afra,BL3,Phasianidae,Phasianidae,"Grouse, pheasants and partridges",11,GALLIFORMES,NONPASSERIFORMES,No
+Francolinus rufopictus,Francolinus_rufopictus,Grey-breasted Spurfowl,Pternistis rufopictus,BL3,Phasianidae,Phasianidae,"Grouse, pheasants and partridges",11,GALLIFORMES,NONPASSERIFORMES,No
+Francolinus swainsonii,Francolinus_swainsonii,Swainson's Spurfowl,Pternistis swainsonii,BL3,Phasianidae,Phasianidae,"Grouse, pheasants and partridges",11,GALLIFORMES,NONPASSERIFORMES,No
+Francolinus griseostriatus,Francolinus_griseostriatus,Grey-striped Francolin,Pternistis griseostriatus,BL3,Phasianidae,Phasianidae,"Grouse, pheasants and partridges",11,GALLIFORMES,NONPASSERIFORMES,No
+Francolinus lathami,Francolinus_lathami,Forest Francolin,Peliperdix lathami,BL3,Phasianidae,Phasianidae,"Grouse, pheasants and partridges",11,GALLIFORMES,NONPASSERIFORMES,No
+Francolinus leucoscepus,Francolinus_leucoscepus,Yellow-necked Spurfowl,Pternistis leucoscepus,BL3,Phasianidae,Phasianidae,"Grouse, pheasants and partridges",11,GALLIFORMES,NONPASSERIFORMES,No
+Anas rhynchotis,Anas_rhynchotis,Australasian Shoveler,Spatula rhynchotis,BL3,Anatinae,Anatidae,"Ducks, geese and swans",14,ANSERIFORMES,NONPASSERIFORMES,No
+Thalassarche steadi,Thalassarche_steadi,White-capped Albatross,Thalassarche cauta,BL3,Procellariidae,Diomedeidae,Albatrosses,17,PROCELLARIIFORMES,NONPASSERIFORMES,No
+Thalassarche impavida,Thalassarche_impavida,Campbell Albatross,Thalassarche melanophris,BL3,Procellariidae,Diomedeidae,Albatrosses,17,PROCELLARIIFORMES,NONPASSERIFORMES,No
+Thalassarche carteri,Thalassarche_carteri,Indian Yellow-nosed Albatross,Thalassarche chlororhynchos,BL3,Procellariidae,Diomedeidae,Albatrosses,17,PROCELLARIIFORMES,NONPASSERIFORMES,No
+Diomedea dabbenena,Diomedea_dabbenena,Tristan Albatross,Diomedea exulans,BL3,Procellariidae,Diomedeidae,Albatrosses,17,PROCELLARIIFORMES,NONPASSERIFORMES,No
+Diomedea sanfordi,Diomedea_sanfordi,Northern Royal Albatross,Diomedea epomophora,BL3,Procellariidae,Diomedeidae,Albatrosses,17,PROCELLARIIFORMES,NONPASSERIFORMES,No
+Diomedea antipodensis,Diomedea_antipodensis,Antipodean Albatross,Diomedea exulans,BL3,Procellariidae,Diomedeidae,Albatrosses,17,PROCELLARIIFORMES,NONPASSERIFORMES,No
+Diomedea amsterdamensis,Diomedea_amsterdamensis,Amsterdam Albatross,Diomedea exulans,BL3,Procellariidae,Diomedeidae,Albatrosses,17,PROCELLARIIFORMES,NONPASSERIFORMES,No
+Pterodroma caribbaea,Pterodroma_caribbaea,Jamaica Petrel,Pterodroma hasitata,BL3,Procellariidae,Procellariidae,Petrels and shearwaters,18,PROCELLARIIFORMES,NONPASSERIFORMES,No
+Oceanites maorianus,Oceanites_maorianus,New Zealand Storm-petrel,Fregetta maoriana,BL3,Procellariidae,Hydrobatidae,Storm-petrels,19,PROCELLARIIFORMES,NONPASSERIFORMES,No
+Halocyptena microsoma,Halocyptena_microsoma,Least Storm-petrel,Oceanodroma microsoma,BL3,Procellariidae,Hydrobatidae,Storm-petrels,19,PROCELLARIIFORMES,NONPASSERIFORMES,No
+Threskiornis bernieri,Threskiornis_bernieri,Madagascar Sacred Ibis,Threskiornis aethiopicus,BL3,Threskiornithidae,Threskiornithidae,Ibises and spoonbills,24,PELECANIFORMES,NONPASSERIFORMES,No
+Phalacrocorax africanus,Phalacrocorax_africanus,Reed Cormorant,Microcarbo africanus,BL3,Phalacrocoracidae,Phalacrocoracidae,Cormorants,32,SULIFORMES,NONPASSERIFORMES,No
+Falco pelegrinoides,Falco_pelegrinoides,Barbary Falcon,Falco peregrinus,BL3,Falconidae,Falconidae,Falcons and caracaras,35,FALCONIFORMES,NONPASSERIFORMES,No
+Accipiter erythronemius,Accipiter_erythronemius,Rufous-thighed Hawk,Accipiter striatus,IOC27,Accipitridae,Accipitridae,"Osprey, kites, hawks and eagles",36,ACCIPITRIFORMES,NONPASSERIFORMES,No
+Chondrohierax wilsonii,Chondrohierax_wilsonii,Cuban Kite,Chondrohierax uncinatus,BL3,Accipitridae,Accipitridae,"Osprey, kites, hawks and eagles",36,ACCIPITRIFORMES,NONPASSERIFORMES,No
+Aquila africanus,Aquila_africanus,Cassin's Hawk-eagle,Aquila africana,BL3,Accipitridae,Accipitridae,"Osprey, kites, hawks and eagles",36,ACCIPITRIFORMES,NONPASSERIFORMES,No
+Circus macrosceles,Circus_macrosceles,Madagascar Harrier,Polyboroides radiatus,BL3,Accipitridae,Accipitridae,"Osprey, kites, hawks and eagles",36,ACCIPITRIFORMES,NONPASSERIFORMES,No
+Accipiter ventralis,Accipiter_ventralis,Plain-breasted Hawk,Accipiter striatus,IOC27,Accipitridae,Accipitridae,"Osprey, kites, hawks and eagles",36,ACCIPITRIFORMES,NONPASSERIFORMES,No
+Buteo polyosoma,Buteo_polyosoma,Red-backed Hawk,Geranoaetus polyosoma,BL3,Accipitridae,Accipitridae,"Osprey, kites, hawks and eagles",36,ACCIPITRIFORMES,NONPASSERIFORMES,No
+Accipiter chilensis,Accipiter_chilensis,Chilean Hawk,Accipiter bicolor,IOC27,Accipitridae,Accipitridae,"Osprey, kites, hawks and eagles",36,ACCIPITRIFORMES,NONPASSERIFORMES,No
+Accipiter chionogaster,Accipiter_chionogaster,White-breasted Hawk,Accipiter striatus,IOC27,Accipitridae,Accipitridae,"Osprey, kites, hawks and eagles",36,ACCIPITRIFORMES,NONPASSERIFORMES,No
+Gyps rueppellii,Gyps_rueppellii,Rueppell's Vulture,Gyps rueppelli,BL3,Accipitridae,Accipitridae,"Osprey, kites, hawks and eagles",36,ACCIPITRIFORMES,NONPASSERIFORMES,No
+Ichthyophaga humilis,Ichthyophaga_humilis,Lesser Fish-eagle,Haliaeetus humilis,BL3,Accipitridae,Accipitridae,"Osprey, kites, hawks and eagles",36,ACCIPITRIFORMES,NONPASSERIFORMES,No
+Ichthyophaga ichthyaetus,Ichthyophaga_ichthyaetus,Grey-headed Fish-eagle,Haliaeetus ichthyaetus,BL3,Accipitridae,Accipitridae,"Osprey, kites, hawks and eagles",36,ACCIPITRIFORMES,NONPASSERIFORMES,No
+Harpyhaliaetus coronatus,Harpyhaliaetus_coronatus,Crowned Eagle,Stephanoaetus coronatus,BL3,Accipitridae,Accipitridae,"Osprey, kites, hawks and eagles",36,ACCIPITRIFORMES,NONPASSERIFORMES,No
+Hieraaetus spilogaster,Hieraaetus_spilogaster,African Hawk-eagle,Aquila spilogaster,BL3,Accipitridae,Accipitridae,"Osprey, kites, hawks and eagles",36,ACCIPITRIFORMES,NONPASSERIFORMES,No
+Leucopternis schistaceus,Leucopternis_schistaceus,Slate-coloured Hawk,Buteogallus schistaceus,BL3,Accipitridae,Accipitridae,"Osprey, kites, hawks and eagles",36,ACCIPITRIFORMES,NONPASSERIFORMES,No
+Leucopternis occidentalis,Leucopternis_occidentalis,Grey-backed Hawk,Pseudastur occidentalis,BL3,Accipitridae,Accipitridae,"Osprey, kites, hawks and eagles",36,ACCIPITRIFORMES,NONPASSERIFORMES,No
+Eupodotis rueppellii,Eupodotis_rueppellii,Rueppell's Bustard,Eupodotis rueppelii,BL3,Otididae,Otididae,Bustards,37,OTIDIFORMES,NONPASSERIFORMES,No
+Porzana atra,Porzana_atra,Henderson Crake,Zapornia atra,BL3,Rallidae,Rallidae,"Rails, crakes and allies",42,GRUIFORMES,NONPASSERIFORMES,No
+Aramides cajanea,Aramides_cajanea,Grey-necked Wood-rail,Aramides cajaneus,BL3,Rallidae,Rallidae,"Rails, crakes and allies",42,GRUIFORMES,NONPASSERIFORMES,No
+Gallinula mortierii,Gallinula_mortierii,Tasmanian Native-hen,Tribonyx mortierii,BL3,Rallidae,Rallidae,"Rails, crakes and allies",42,GRUIFORMES,NONPASSERIFORMES,No
+Laterallus tuerosi,Laterallus_tuerosi,Junin Rail,Laterallus jamaicensis,BL3,Rallidae,Rallidae,"Rails, crakes and allies",42,GRUIFORMES,NONPASSERIFORMES,No
+Gallinula ventralis,Gallinula_ventralis,Black-tailed Native-hen,Tribonyx ventralis,BL3,Rallidae,Rallidae,"Rails, crakes and allies",42,GRUIFORMES,NONPASSERIFORMES,No
+Fulica caribaea,Fulica_caribaea,Caribbean Coot,Fulica americana,BL3,Rallidae,Rallidae,"Rails, crakes and allies",42,GRUIFORMES,NONPASSERIFORMES,No
+Rostratula semicollaris,Rostratula_semicollaris,South American Painted-snipe,Nycticryphes semicollaris,BL3,Scolopaci,Rostratulidae,Painted-snipes,55,CHARADRIIFORMES,NONPASSERIFORMES,No
+Heteroscelus brevipes,Heteroscelus_brevipes,Grey-tailed Tattler,Tringa brevipes,BL3,Scolopaci,Scolopacidae,Sandpipers and allies,59,CHARADRIIFORMES,NONPASSERIFORMES,No
+Procelsterna albivitta,Procelsterna_albivitta,Grey Noddy,Anous albivitta,IOC27,Lari,Laridae,Gulls and terns,61,CHARADRIIFORMES,NONPASSERIFORMES,No
+Procelsterna cerulea,Procelsterna_cerulea,Blue Noddy,Anous ceruleus,BL3,Lari,Laridae,Gulls and terns,61,CHARADRIIFORMES,NONPASSERIFORMES,No
+Sterna lunata,Sterna_lunata,Grey-backed Tern,Onychoprion lunatus,BL3,Lari,Laridae,Gulls and terns,61,CHARADRIIFORMES,NONPASSERIFORMES,No
+Sterna nereis,Sterna_nereis,Fairy Tern,Sternula nereis,BL3,Lari,Laridae,Gulls and terns,61,CHARADRIIFORMES,NONPASSERIFORMES,No
+Larus hartlaubii,Larus_hartlaubii,King Gull,Chroicocephalus hartlaubii,BL3,Lari,Laridae,Gulls and terns,61,CHARADRIIFORMES,NONPASSERIFORMES,No
+Gygis microrhyncha,Gygis_microrhyncha,Little White Tern,Gygis alba,BL3,Lari,Laridae,Gulls and terns,61,CHARADRIIFORMES,NONPASSERIFORMES,No
+Larus thayeri,Larus_thayeri,Thayer's Gull,Larus glaucoides,BL3,Lari,Laridae,Gulls and terns,61,CHARADRIIFORMES,NONPASSERIFORMES,No
+Larus modestus,Larus_modestus,Grey Gull,Leucophaeus modestus,BL3,Lari,Laridae,Gulls and terns,61,CHARADRIIFORMES,NONPASSERIFORMES,No
+Larus cirrocephalus,Larus_cirrocephalus,Grey-headed Gull,Chroicocephalus cirrocephalus,BL3,Lari,Laridae,Gulls and terns,61,CHARADRIIFORMES,NONPASSERIFORMES,No
+Catharacta antarctica,Catharacta_antarctica,Southern Skua,Stercorarius antarcticus,BL3,Lari,Stercorariidae,Skuas and jaegers,62,CHARADRIIFORMES,NONPASSERIFORMES,No
+Nesoenas picturata,Nesoenas_picturata,Madagascar Turtle-dove,Streptopelia picturata,BL3,Columbidae,Columbidae,Doves and pigeons,65,COLUMBIFORMES,NONPASSERIFORMES,No
+Reinwardtoena reinwardtsi,Reinwardtoena_reinwardtsi,Great Cuckoo-dove,Reinwardtoena reinwardti,BL3,Columbidae,Columbidae,Doves and pigeons,65,COLUMBIFORMES,NONPASSERIFORMES,No
+Ptilinopus greyii,Ptilinopus_greyii,Red-bellied Fruit-dove,Ptilinopus greyi,BL3,Columbidae,Columbidae,Doves and pigeons,65,COLUMBIFORMES,NONPASSERIFORMES,No
+Ptilinopus naina,Ptilinopus_naina,Dwarf Fruit-dove,Ptilinopus nainus,BL3,Columbidae,Columbidae,Doves and pigeons,65,COLUMBIFORMES,NONPASSERIFORMES,No
+Claravis godefrida,Claravis_godefrida,Purple-winged Ground-dove,Claravis geoffroyi,BL3,Columbidae,Columbidae,Doves and pigeons,65,COLUMBIFORMES,NONPASSERIFORMES,No
+Alectroenas pulcherrima,Alectroenas_pulcherrima,Seychelles Blue-pigeon,Alectroenas pulcherrimus,BL3,Columbidae,Columbidae,Doves and pigeons,65,COLUMBIFORMES,NONPASSERIFORMES,No
+Gallicolumba rubescens,Gallicolumba_rubescens,Marquesan Ground-dove,Alopecoenas rubescens,BL3,Columbidae,Columbidae,Doves and pigeons,65,COLUMBIFORMES,NONPASSERIFORMES,No
+Gallicolumba kubaryi,Gallicolumba_kubaryi,Caroline Islands Ground-dove,Alopecoenas kubaryi,BL3,Columbidae,Columbidae,Doves and pigeons,65,COLUMBIFORMES,NONPASSERIFORMES,No
+Gallicolumba sanctaecrucis,Gallicolumba_sanctaecrucis,Santa Cruz Ground-dove,Alopecoenas sanctaecrucis,BL3,Columbidae,Columbidae,Doves and pigeons,65,COLUMBIFORMES,NONPASSERIFORMES,No
+Gallicolumba stairi,Gallicolumba_stairi,Shy Ground-dove,Alopecoenas stairi,BL3,Columbidae,Columbidae,Doves and pigeons,65,COLUMBIFORMES,NONPASSERIFORMES,No
+Gallicolumba xanthonura,Gallicolumba_xanthonura,White-throated Ground-dove,Alopecoenas xanthonurus,BL3,Columbidae,Columbidae,Doves and pigeons,65,COLUMBIFORMES,NONPASSERIFORMES,No
+Ducula subflavescens,Ducula_subflavescens,Yellowish Imperial-pigeon,Ducula spilorrhoa,BL3,Columbidae,Columbidae,Doves and pigeons,65,COLUMBIFORMES,NONPASSERIFORMES,No
+Gallicolumba jobiensis,Gallicolumba_jobiensis,White-bibbed Ground-dove,Alopecoenas jobiensis,BL3,Columbidae,Columbidae,Doves and pigeons,65,COLUMBIFORMES,NONPASSERIFORMES,No
+Gallicolumba hoedtii,Gallicolumba_hoedtii,Wetar Ground-dove,Alopecoenas hoedtii,BL3,Columbidae,Columbidae,Doves and pigeons,65,COLUMBIFORMES,NONPASSERIFORMES,No
+Gallicolumba erythroptera,Gallicolumba_erythroptera,Polynesian Ground-dove,Alopecoenas erythropterus,BL3,Columbidae,Columbidae,Doves and pigeons,65,COLUMBIFORMES,NONPASSERIFORMES,No
+Geotrygon linearis,Geotrygon_linearis,Lined Quail-dove,Zentrygon linearis,BL3,Columbidae,Columbidae,Doves and pigeons,65,COLUMBIFORMES,NONPASSERIFORMES,No
+Geotrygon veraguensis,Geotrygon_veraguensis,Olive-backed Quail-dove,Leptotrygon veraguensis,BL3,Columbidae,Columbidae,Doves and pigeons,65,COLUMBIFORMES,NONPASSERIFORMES,No
+Geotrygon frenata,Geotrygon_frenata,White-throated Quail-dove,Zentrygon frenata,BL3,Columbidae,Columbidae,Doves and pigeons,65,COLUMBIFORMES,NONPASSERIFORMES,No
+Leptotila cassini,Leptotila_cassini,Grey-chested Dove,Leptotila cassinii,BL3,Columbidae,Columbidae,Doves and pigeons,65,COLUMBIFORMES,NONPASSERIFORMES,No
+Geotrygon albifacies,Geotrygon_albifacies,White-faced Quail-dove,Zentrygon albifacies,BL3,Columbidae,Columbidae,Doves and pigeons,65,COLUMBIFORMES,NONPASSERIFORMES,No
+Geotrygon lawrencii,Geotrygon_lawrencii,Purplish-backed Quail-dove,Zentrygon lawrencii,BL3,Columbidae,Columbidae,Doves and pigeons,65,COLUMBIFORMES,NONPASSERIFORMES,No
+Geotrygon goldmani,Geotrygon_goldmani,Russet-crowned Quail-dove,Zentrygon goldmani,BL3,Columbidae,Columbidae,Doves and pigeons,65,COLUMBIFORMES,NONPASSERIFORMES,No
+Geotrygon carrikeri,Geotrygon_carrikeri,Tuxtla Quail-dove,Zentrygon carrikeri,BL3,Columbidae,Columbidae,Doves and pigeons,65,COLUMBIFORMES,NONPASSERIFORMES,No
+Geotrygon chiriquensis,Geotrygon_chiriquensis,Rufous-breasted Quail-dove,Zentrygon chiriquensis,BL3,Columbidae,Columbidae,Doves and pigeons,65,COLUMBIFORMES,NONPASSERIFORMES,No
+Geotrygon costaricensis,Geotrygon_costaricensis,Buff-fronted Quail-dove,Zentrygon costaricensis,BL3,Columbidae,Columbidae,Doves and pigeons,65,COLUMBIFORMES,NONPASSERIFORMES,No
+Gallicolumba beccarii,Gallicolumba_beccarii,Bronze Ground-dove,Alopecoenas beccarii,BL3,Columbidae,Columbidae,Doves and pigeons,65,COLUMBIFORMES,NONPASSERIFORMES,No
+Gallicolumba canifrons,Gallicolumba_canifrons,Palau Ground-dove,Alopecoenas canifrons,BL3,Columbidae,Columbidae,Doves and pigeons,65,COLUMBIFORMES,NONPASSERIFORMES,No
+Leptotila battyi,Leptotila_battyi,Brown-backed Dove,Leptotila plumbeiceps,BL3,Columbidae,Columbidae,Doves and pigeons,65,COLUMBIFORMES,NONPASSERIFORMES,No
+Chrysococcyx russatus,Chrysococcyx_russatus,Gould's Bronze-cuckoo,Chrysococcyx minutillus,BL3,Cuculidae,Cuculidae,Cuckoos,67,CUCULIFORMES,NONPASSERIFORMES,No
+Chrysococcyx crassirostris,Chrysococcyx_crassirostris,Pied Bronze-cuckoo,Chrysococcyx minutillus,BL3,Cuculidae,Cuculidae,Cuckoos,67,CUCULIFORMES,NONPASSERIFORMES,No
+Centropus spilopterus,Centropus_spilopterus,Kai Coucal,Centropus phasianinus,BL3,Cuculidae,Cuculidae,Cuckoos,67,CUCULIFORMES,NONPASSERIFORMES,No
+Cuculus fugax,Cuculus_fugax,Hodgson's Hawk-cuckoo,Hierococcyx nisicolor,BL3,Cuculidae,Cuculidae,Cuckoos,67,CUCULIFORMES,NONPASSERIFORMES,No
+Chrysococcyx meyeri,Chrysococcyx_meyeri,White-eared Bronze-cuckoo,Chrysococcyx meyerii,BL3,Cuculidae,Cuculidae,Cuckoos,67,CUCULIFORMES,NONPASSERIFORMES,No
+Cuculus varius,Cuculus_varius,Common Hawk-cuckoo,Hierococcyx varius,BL3,Cuculidae,Cuculidae,Cuckoos,67,CUCULIFORMES,NONPASSERIFORMES,No
+Cuculus vagans,Cuculus_vagans,Moustached Hawk-cuckoo,Hierococcyx vagans,BL3,Cuculidae,Cuculidae,Cuckoos,67,CUCULIFORMES,NONPASSERIFORMES,No
+Cuculus sparverioides,Cuculus_sparverioides,Large Hawk-cuckoo,Hierococcyx sparverioides,BL3,Cuculidae,Cuculidae,Cuckoos,67,CUCULIFORMES,NONPASSERIFORMES,No
+Carpococcyx radiatus,Carpococcyx_radiatus,Bornean Ground-cuckoo,Carpococcyx radiceus,BL3,Cuculidae,Cuculidae,Cuckoos,67,CUCULIFORMES,NONPASSERIFORMES,No
+Cacomantis sepulcralis,Cacomantis_sepulcralis,Rusty-breasted Cuckoo,Cacomantis variolosus,BL3,Cuculidae,Cuculidae,Cuckoos,67,CUCULIFORMES,NONPASSERIFORMES,No
+Psittacula calthropae,Psittacula_calthropae,Emerald-collared Parakeet,Psittacula calthrapae,BL3,Psittacidae1,Psittacidae,Parrots,68,PSITTACIFORMES,NONPASSERIFORMES,No
+Cacatua leadbeateri,Cacatua_leadbeateri,Major Mitchell's Cockatoo,Lophochroa leadbeateri,BL3,Cacatuidae,Psittacidae,Parrots,68,PSITTACIFORMES,NONPASSERIFORMES,No
+Amazona mercenaria,Amazona_mercenaria,Scaly-naped Amazon,Amazona mercenarius,BL3,Psittacidae2,Psittacidae,Parrots,68,PSITTACIFORMES,NONPASSERIFORMES,No
+Aratinga rubritorquis,Aratinga_rubritorquis,Red-throated Parakeet,Psittacara holochlorus,BL3,Psittacidae2,Psittacidae,Parrots,68,PSITTACIFORMES,NONPASSERIFORMES,No
+Aratinga brevipes,Aratinga_brevipes,Socorro Parakeet,Psittacara holochlorus,BL3,Psittacidae2,Psittacidae,Parrots,68,PSITTACIFORMES,NONPASSERIFORMES,No
+Ninox superciliaris,Ninox_superciliaris,White-browed Hawk-owl,Athene superciliaris,BL3,Strigidae,Strigidae,Owls,71,STRIGIFORMES,NONPASSERIFORMES,No
+Ninox boobook,Ninox_boobook,Southern Boobook,Ninox novaeseelandiae,IOC27,Strigidae,Strigidae,Owls,71,STRIGIFORMES,NONPASSERIFORMES,No
+Otus leucotis,Otus_leucotis,White-faced Scops-owl,Ptilopsis leucotis,BL3,Strigidae,Strigidae,Owls,71,STRIGIFORMES,NONPASSERIFORMES,No
+Otus podarginus,Otus_podarginus,Palau Scops-owl,Pyrroglaux podargina,BL3,Strigidae,Strigidae,Owls,71,STRIGIFORMES,NONPASSERIFORMES,No
+Otus siaoensis,Otus_siaoensis,Siau Scops-owl,Otus manadensis,BL3,Strigidae,Strigidae,Owls,71,STRIGIFORMES,NONPASSERIFORMES,No
+Bubo magellanicus,Bubo_magellanicus,Lesser Horned Owl,Bubo virginianus,IOC27,Strigidae,Strigidae,Owls,71,STRIGIFORMES,NONPASSERIFORMES,No
+Glaucidium californicum,Glaucidium_californicum,Northern Pygmy Owl,Glaucidium gnoma,IOC27,Strigidae,Strigidae,Owls,71,STRIGIFORMES,NONPASSERIFORMES,No
+Megascops colombianus,Megascops_colombianus,Colombian Screech-owl,Megascops ingens,BL3,Strigidae,Strigidae,Owls,71,STRIGIFORMES,NONPASSERIFORMES,No
+Glaucidium nanum,Glaucidium_nanum,Austral Pygmy-owl,Glaucidium nana,BL3,Strigidae,Strigidae,Owls,71,STRIGIFORMES,NONPASSERIFORMES,No
+Mimizuku gurneyi,Mimizuku_gurneyi,Giant Scops-owl,Otus gurneyi,BL3,Strigidae,Strigidae,Owls,71,STRIGIFORMES,NONPASSERIFORMES,No
+Batrachostomus mixtus,Batrachostomus_mixtus,Bornean Frogmouth,Batrachostomus poliolophus,BL3,Podargidae,Podargidae,Frogmouths,72,CAPRIMULGIFORMES,NONPASSERIFORMES,No
+Caprimulgus vociferus,Caprimulgus_vociferus,Whip-poor-will,Antrostomus vociferus,BL3,Caprimulgidae,Caprimulgidae,Nightjars,75,CAPRIMULGIFORMES,NONPASSERIFORMES,No
+Caprimulgus ekmani,Caprimulgus_ekmani,Hispaniola Nightjar,Antrostomus cubanensis,BL3,Caprimulgidae,Caprimulgidae,Nightjars,75,CAPRIMULGIFORMES,NONPASSERIFORMES,No
+Caprimulgus cubanensis,Caprimulgus_cubanensis,Cuban Nightjar,Antrostomus cubanensis,BL3,Caprimulgidae,Caprimulgidae,Nightjars,75,CAPRIMULGIFORMES,NONPASSERIFORMES,No
+Eurostopodus temminckii,Eurostopodus_temminckii,Malaysian Eared-nightjar,Lyncornis temminckii,BL3,Caprimulgidae,Caprimulgidae,Nightjars,75,CAPRIMULGIFORMES,NONPASSERIFORMES,No
+Eurostopodus macrotis,Eurostopodus_macrotis,Great Eared-nightjar,Lyncornis macrotis,BL3,Caprimulgidae,Caprimulgidae,Nightjars,75,CAPRIMULGIFORMES,NONPASSERIFORMES,No
+Apus toulsoni,Apus_toulsoni,Loanda Swift,Apus horus,BL3,Apodidae,Apodidae,Swifts,77,APODIFORMES,NONPASSERIFORMES,No
+Apus sladeniae,Apus_sladeniae,Fernando Po Swift,Apus barbatus,BL3,Apodidae,Apodidae,Swifts,77,APODIFORMES,NONPASSERIFORMES,No
+Collocalia fuciphaga,Collocalia_fuciphaga,Edible-nest Swiftlet,Aerodramus fuciphagus,BL3,Apodidae,Apodidae,Swifts,77,APODIFORMES,NONPASSERIFORMES,No
+Collocalia germani,Collocalia_germani,German's Swiftlet,Aerodramus germani,BL3,Apodidae,Apodidae,Swifts,77,APODIFORMES,NONPASSERIFORMES,No
+Collocalia infuscata,Collocalia_infuscata,Moluccan Swiftlet,Aerodramus infuscatus,BL3,Apodidae,Apodidae,Swifts,77,APODIFORMES,NONPASSERIFORMES,No
+Collocalia inquieta,Collocalia_inquieta,Micronesian Swiftlet,Aerodramus inquietus,BL3,Apodidae,Apodidae,Swifts,77,APODIFORMES,NONPASSERIFORMES,No
+Collocalia leucophaea,Collocalia_leucophaea,Tahiti Swiftlet,Aerodramus leucophaeus,BL3,Apodidae,Apodidae,Swifts,77,APODIFORMES,NONPASSERIFORMES,No
+Collocalia rogersi,Collocalia_rogersi,Indochinese Swiftlet,Aerodramus brevirostris,BL3,Apodidae,Apodidae,Swifts,77,APODIFORMES,NONPASSERIFORMES,No
+Collocalia papuensis,Collocalia_papuensis,Papuan Swiftlet,Aerodramus papuensis,BL3,Apodidae,Apodidae,Swifts,77,APODIFORMES,NONPASSERIFORMES,No
+Collocalia palawanensis,Collocalia_palawanensis,Palawan Swiftlet,Aerodramus pelewensis,BL3,Apodidae,Apodidae,Swifts,77,APODIFORMES,NONPASSERIFORMES,No
+Collocalia amelis,Collocalia_amelis,Grey Swiftlet,Aerodramus terraereginae,BL3,Apodidae,Apodidae,Swifts,77,APODIFORMES,NONPASSERIFORMES,No
+Collocalia bartschi,Collocalia_bartschi,Guam Swiftlet,Aerodramus bartschi,BL3,Apodidae,Apodidae,Swifts,77,APODIFORMES,NONPASSERIFORMES,No
+Thalurania fannyi,Thalurania_fannyi,Green-crowned Woodnymph,Thalurania colombica,BL3,Trochilidae,Trochilidae,Hummingbirds,79,APODIFORMES,NONPASSERIFORMES,No
+Trochilus scitulus,Trochilus_scitulus,Black-billed Streamertail,Trochilus polytmus,BL3,Trochilidae,Trochilidae,Hummingbirds,79,APODIFORMES,NONPASSERIFORMES,No
+Ceyx lecontei,Ceyx_lecontei,African Dwarf-kingfisher,Ispidina lecontei,BL3,Alcedinidae,Alcedinidae,Kingfishers,85,CORACIIFORMES,NONPASSERIFORMES,No
+Ceyx madagascariensis,Ceyx_madagascariensis,Madagascar Pygmy-kingfisher,Corythornis madagascariensis,BL3,Alcedinidae,Alcedinidae,Kingfishers,85,CORACIIFORMES,NONPASSERIFORMES,No
+Ceyx pictus,Ceyx_pictus,African Pygmy-kingfisher,Ispidina picta,BL3,Alcedinidae,Alcedinidae,Kingfishers,85,CORACIIFORMES,NONPASSERIFORMES,No
+Alcedo vintsioides,Alcedo_vintsioides,Madagascar Kingfisher,Corythornis vintsioides,BL3,Alcedinidae,Alcedinidae,Kingfishers,85,CORACIIFORMES,NONPASSERIFORMES,No
+Alcedo argentata,Alcedo_argentata,Silvery Kingfisher,Ceyx argentatus,BL3,Alcedinidae,Alcedinidae,Kingfishers,85,CORACIIFORMES,NONPASSERIFORMES,No
+Tockus nasutus,Tockus_nasutus,African Grey Hornbill,Lophoceros nasutus,BL3,Bucerotidae,Bucerotidae,Hornbills,91,BUCEROTIFORMES,NONPASSERIFORMES,No
+Aceros plicatus,Aceros_plicatus,Papuan Hornbill,Rhyticeros plicatus,BL3,Bucerotidae,Bucerotidae,Hornbills,91,BUCEROTIFORMES,NONPASSERIFORMES,No
+Aceros waldeni,Aceros_waldeni,Rufous-headed Hornbill,Rhabdotorrhinus waldeni,BL3,Bucerotidae,Bucerotidae,Hornbills,91,BUCEROTIFORMES,NONPASSERIFORMES,No
+Bucorvus cafer,Bucorvus_cafer,Southern Ground-hornbill,Bucorvus leadbeateri,BL3,Bucerotidae,Bucorvidae,Ground-hornbills,92,BUCEROTIFORMES,NONPASSERIFORMES,No
+Pogoniulus coryphaeus,Pogoniulus_coryphaeus,Western Green-tinkerbird,Pogoniulus coryphaea,BL3,Ramphastidae,Ramphastidae,Toucans and barbets,93,PICIFORMES,NONPASSERIFORMES,No
+Pogoniulus makawai,Pogoniulus_makawai,White-chested Tinkerbird,Pogoniulus bilineatus,BL3,Ramphastidae,Ramphastidae,Toucans and barbets,93,PICIFORMES,NONPASSERIFORMES,No
+Ramphastos swainsonii,Ramphastos_swainsonii,Chestnut-mandibled Toucan,Ramphastos ambiguus,BL3,Ramphastidae,Ramphastidae,Toucans and barbets,93,PICIFORMES,NONPASSERIFORMES,No
+Trachyphonus usambiro,Trachyphonus_usambiro,Usambiro Barbet,Trachyphonus darnaudii,BL3,Ramphastidae,Ramphastidae,Toucans and barbets,93,PICIFORMES,NONPASSERIFORMES,No
+Picumnus nigropunctatus,Picumnus_nigropunctatus,Black-dotted Piculet,Picumnus squamulatus,IOC27,Picidae,Picidae,Woodpeckers,95,PICIFORMES,NONPASSERIFORMES,No
+Veniliornis sanguineus,Veniliornis_sanguineus,Blood-coloured Woodpecker,Dryobates sanguineus,BL3,Picidae,Picidae,Woodpeckers,95,PICIFORMES,NONPASSERIFORMES,No
+Dendropicos elachus,Dendropicos_elachus,Sahelian Woodpecker,Chloropicus elachus,BL3,Picidae,Picidae,Woodpeckers,95,PICIFORMES,NONPASSERIFORMES,No
+Dendropicos spodocephalus,Dendropicos_spodocephalus,Eastern Grey Woodpecker,Chloropicus spodocephalus,IOC27,Picidae,Picidae,Woodpeckers,95,PICIFORMES,NONPASSERIFORMES,No
+Dendrocopos canicapillus,Dendrocopos_canicapillus,Grey-capped Woodpecker,Yungipicus canicapillus,BL3,Picidae,Picidae,Woodpeckers,95,PICIFORMES,NONPASSERIFORMES,No
+Mesopicos goertae,Mesopicos_goertae,Grey Woodpecker,Chloropicus goertae,BL3,Picidae,Picidae,Woodpeckers,95,PICIFORMES,NONPASSERIFORMES,No
+Pitta ussheri,Pitta_ussheri,Black-headed Pitta,Erythropitta ussheri,BL3,EurylaimidaePittidae,Pittidae,Pittas,102,PASSERIFORMES,Tyranni,No
+Pitta erythrogaster,Pitta_erythrogaster,Red-bellied Pitta,Erythropitta erythrogaster,BL3,EurylaimidaePittidae,Pittidae,Pittas,102,PASSERIFORMES,Tyranni,No
+Pitta guajana,Pitta_guajana,Banded Pitta,Hydrornis guajanus,BL3,EurylaimidaePittidae,Pittidae,Pittas,102,PASSERIFORMES,Tyranni,No
+Pachyramphus xanthogenys,Pachyramphus_xanthogenys,Yellow-cheeked Becard,Pachyramphus viridis,IOC27,TitTyranRest,Cotingidae,Cotingas,104,PASSERIFORMES,Tyranni,No
+Laniisoma buckleyi,Laniisoma_buckleyi,Andean Laniisoma,Laniisoma elegans,IOC27,TitTyranRest,Cotingidae,Cotingas,104,PASSERIFORMES,Tyranni,No
+Phaeomyias tumbezana,Phaeomyias_tumbezana,Tumbesian Tyrannulet,Phaeomyias murina,IOC27,TitTyranRest,Tyrannidae,Tyrant-flycatchers,105,PASSERIFORMES,Tyranni,No
+Phyllomyias zeledoni,Phyllomyias_zeledoni,White-fronted Tyrannulet,Phyllomyias burmeisteri,IOC27,TitTyranRest,Tyrannidae,Tyrant-flycatchers,105,PASSERIFORMES,Tyranni,No
+Onychorhynchus swainsoni,Onychorhynchus_swainsoni,Atlantic Royal Flycatcher,Onychorhynchus coronatus,BL3,TitTyranRest,Tyrannidae,Tyrant-flycatchers,105,PASSERIFORMES,Tyranni,No
+Onychorhynchus occidentalis,Onychorhynchus_occidentalis,Pacific Royal Flycatcher,Onychorhynchus coronatus,BL3,TitTyranRest,Tyrannidae,Tyrant-flycatchers,105,PASSERIFORMES,Tyranni,No
+Onychorhynchus mexicanus,Onychorhynchus_mexicanus,Northern Royal Flycatcher,Onychorhynchus coronatus,BL3,TitTyranRest,Tyrannidae,Tyrant-flycatchers,105,PASSERIFORMES,Tyranni,No
+Ochthoeca thoracica,Ochthoeca_thoracica,Maroon-belted Chat-Tyrant,Ochthoeca cinnamomeiventris,IOC27,TitTyranRest,Tyrannidae,Tyrant-flycatchers,105,PASSERIFORMES,Tyranni,No
+Ochthoeca nigrita,Ochthoeca_nigrita,Blackish Chat-Tyrant,Ochthoeca cinnamomeiventris,IOC27,TitTyranRest,Tyrannidae,Tyrant-flycatchers,105,PASSERIFORMES,Tyranni,No
+Tolmomyias flavotectus,Tolmomyias_flavotectus,Yellow-margined Flatbill,Tolmomyias assimilis,IOC27,TitTyranRest,Tyrannidae,Tyrant-flycatchers,105,PASSERIFORMES,Tyranni,No
+Tolmomyias viridiceps,Tolmomyias_viridiceps,Olive-faced Flatbill,Tolmomyias flaviventris,IOC27,TitTyranRest,Tyrannidae,Tyrant-flycatchers,105,PASSERIFORMES,Tyranni,No
+Zimmerius flavidifrons,Zimmerius_flavidifrons,Loja Tyrannulet,Zimmerius viridiflavus,IOC27,TitTyranRest,Tyrannidae,Tyrant-flycatchers,105,PASSERIFORMES,Tyranni,No
+Contopus punensis,Contopus_punensis,Tumbes Pewee,Contopus cinereus,IOC27,TitTyranRest,Tyrannidae,Tyrant-flycatchers,105,PASSERIFORMES,Tyranni,No
+Anairetes agraphia,Anairetes_agraphia,Unstreaked Tit-tyrant,Uromyias agraphia,BL3,TitTyranRest,Tyrannidae,Tyrant-flycatchers,105,PASSERIFORMES,Tyranni,No
+Anairetes agilis,Anairetes_agilis,Agile Tit-tyrant,Uromyias agilis,BL3,TitTyranRest,Tyrannidae,Tyrant-flycatchers,105,PASSERIFORMES,Tyranni,No
+Myrmeciza immaculata,Myrmeciza_immaculata,Immaculate Antbird,Hafferia immaculata,BL3,Thamnophilidae,Thamnophilidae,Antbirds,106,PASSERIFORMES,Tyranni,No
+Myrmeciza griseiceps,Myrmeciza_griseiceps,Grey-headed Antbird,Ampelornis griseiceps,BL3,Thamnophilidae,Thamnophilidae,Antbirds,106,PASSERIFORMES,Tyranni,No
+Myrmotherula luctuosa,Myrmotherula_luctuosa,Silvery-flanked Antwren,Myrmotherula axillaris,IOC27,Thamnophilidae,Thamnophilidae,Antbirds,106,PASSERIFORMES,Tyranni,No
+Myrmeciza pelzelni,Myrmeciza_pelzelni,Grey-bellied Antbird,Ammonastes pelzelni,BL3,Thamnophilidae,Thamnophilidae,Antbirds,106,PASSERIFORMES,Tyranni,No
+Schistocichla schistacea,Schistocichla_schistacea,Slate-coloured Antbird,Myrmelastes schistaceus,BL3,Thamnophilidae,Thamnophilidae,Antbirds,106,PASSERIFORMES,Tyranni,No
+Cercomacra laeta,Cercomacra_laeta,Laeta Antbird,Cercomacroides laeta,BL3,Thamnophilidae,Thamnophilidae,Antbirds,106,PASSERIFORMES,Tyranni,No
+Formicivora intermedia,Formicivora_intermedia,Northern White-fringed Antwren,Formicivora grisea,IOC27,Thamnophilidae,Thamnophilidae,Antbirds,106,PASSERIFORMES,Tyranni,No
+Skutchia borbae,Skutchia_borbae,Pale-faced Antbird,Phlegopsis borbae,BL3,Thamnophilidae,Formicariidae,Antthrushes and antpittas,109,PASSERIFORMES,Tyranni,No
+Formicarius moniliger,Formicarius_moniliger,Mayan Antthrush,Formicarius analis,IOC27,Antthrushes,Formicariidae,Antthrushes and antpittas,109,PASSERIFORMES,Tyranni,No
+Oreophylax moreirae,Oreophylax_moreirae,Itatiaia Thistletail,Asthenes moreirae,BL3,Furnaridae,Furnariidae,Ovenbirds,110,PASSERIFORMES,Tyranni,No
+Phacellodomus inornatus,Phacellodomus_inornatus,Plain Thornbird,Phacellodomus rufifrons,IOC27,Furnaridae,Furnariidae,Ovenbirds,110,PASSERIFORMES,Tyranni,No
+Pseudocolaptes johnsoni,Pseudocolaptes_johnsoni,Pacific Tuftedcheek,Pseudocolaptes lawrencii,IOC27,Furnaridae,Furnariidae,Ovenbirds,110,PASSERIFORMES,Tyranni,No
+Schizoeaca griseomurina,Schizoeaca_griseomurina,Mouse-coloured Thistletail,Asthenes griseomurina,BL3,Furnaridae,Furnariidae,Ovenbirds,110,PASSERIFORMES,Tyranni,No
+Upucerthia jelskii,Upucerthia_jelskii,Plain-breasted Earthcreeper,Upucerthia validirostris,BL3,Furnaridae,Furnariidae,Ovenbirds,110,PASSERIFORMES,Tyranni,No
+Asthenes arequipae,Asthenes_arequipae,Dark-winged Canastero,Asthenes dorbignyi,IOC27,Furnaridae,Furnariidae,Ovenbirds,110,PASSERIFORMES,Tyranni,No
+Asthenes huancavelicae,Asthenes_huancavelicae,Pale-tailed Canastero,Asthenes dorbignyi,IOC27,Furnaridae,Furnariidae,Ovenbirds,110,PASSERIFORMES,Tyranni,No
+Cranioleuca baroni,Cranioleuca_baroni,Baron's Spinetail,Cranioleuca antisiensis,BL3,Furnaridae,Furnariidae,Ovenbirds,110,PASSERIFORMES,Tyranni,No
+Hyloctistes virgatus,Hyloctistes_virgatus,Western Woodhaunter,Automolus subulatus,IOC27,Furnaridae,Furnariidae,Ovenbirds,110,PASSERIFORMES,Tyranni,No
+Furnarius cinnamomeus,Furnarius_cinnamomeus,Pacific Hornero,Furnarius leucopus,IOC27,Furnaridae,Furnariidae,Ovenbirds,110,PASSERIFORMES,Tyranni,No
+Furnarius longirostris,Furnarius_longirostris,Caribbean Hornero,Furnarius leucopus,IOC27,Furnaridae,Furnariidae,Ovenbirds,110,PASSERIFORMES,Tyranni,No
+Hylexetastes uniformis,Hylexetastes_uniformis,Uniform Woodcreeper,Hylexetastes perrotii,BL3,Furnaridae,Dendrocolaptidae,Woodcreepers,111,PASSERIFORMES,Tyranni,No
+Hylexetastes brigidai,Hylexetastes_brigidai,Mato Grosso Woodcreeper,Hylexetastes perrotii,BL3,Furnaridae,Dendrocolaptidae,Woodcreepers,111,PASSERIFORMES,Tyranni,No
+Phylidonyris notabilis,Phylidonyris_notabilis,New Hebrides Honeyeater,Gliciphila notabilis,BL3,BC7,Meliphagidae,Honeyeaters,117,PASSERIFORMES,Passeri,No
+Philemon novaeguineae,Philemon_novaeguineae,New Guinea Friarbird,Philemon buceroides,BL3,BC7,Meliphagidae,Honeyeaters,117,PASSERIFORMES,Passeri,No
+Lichenostomus keartlandi,Lichenostomus_keartlandi,Grey-headed Honeyeater,Ptilotula keartlandi,BL3,BC7,Meliphagidae,Honeyeaters,117,PASSERIFORMES,Passeri,No
+Melidectes sclateri,Melidectes_sclateri,San Cristobal Melidectes,Meliarchus sclateri,BL3,BC7,Meliphagidae,Honeyeaters,117,PASSERIFORMES,Passeri,No
+Melidectes whitemanensis,Melidectes_whitemanensis,Bismarck Melidectes,Vosea whitemanensis,BL3,BC7,Meliphagidae,Honeyeaters,117,PASSERIFORMES,Passeri,No
+Lichenostomus plumulus,Lichenostomus_plumulus,Grey-fronted Honeyeater,Ptilotula plumula,BL3,BC7,Meliphagidae,Honeyeaters,117,PASSERIFORMES,Passeri,No
+Gerygone cinerea,Gerygone_cinerea,Mountain Gerygone,Acanthiza cinerea,BL3,BC6,Acanthizidae,Thornbills and gerygones,120,PASSERIFORMES,Passeri,No
+Toxorhamphus iliolophus,Toxorhamphus_iliolophus,Plumed Longbill,Oedistoma iliolophus,BL3,CC1,Melanocharitidae,Berrypeckers,124,PASSERIFORMES,Passeri,No
+Telophorus quadricolor,Telophorus_quadricolor,Four-coloured Bush-shrike,Telophorus viridis,BL3,CC7,Malaconotidae,"Helmetshrikes, bushshrikes and puffbacks",129,PASSERIFORMES,Passeri,No
+Hypositta perdita,Hypositta_perdita,Bluntschli's Vanga,Oxylabes madagascariensis,BL3,CC7,Vangidae,Vangas,131,PASSERIFORMES,Passeri,No
+Coracina incerta,Coracina_incerta,Black-shouldered Cicadabird,Edolisoma incertum,BL3,CC4,Campephagidae,Cuckoo-shrikes,136,PASSERIFORMES,Passeri,No
+Coracina dohertyi,Coracina_dohertyi,Sumba Cicadabird,Edolisoma dohertyi,BL3,CC4,Campephagidae,Cuckoo-shrikes,136,PASSERIFORMES,Passeri,No
+Campephaga lobata,Campephaga_lobata,Western Wattled Cuckooshrike,Lobotos lobatus,BL3,CC4,Campephagidae,Cuckoo-shrikes,136,PASSERIFORMES,Passeri,No
+Coracina tenuirostris,Coracina_tenuirostris,Slender-billed Cicadabird,Edolisoma tenuirostre,BL3,CC4,Campephagidae,Cuckoo-shrikes,136,PASSERIFORMES,Passeri,No
+Coracina schisticeps,Coracina_schisticeps,Grey-headed Cuckooshrike,Edolisoma schisticeps,BL3,CC4,Campephagidae,Cuckoo-shrikes,136,PASSERIFORMES,Passeri,No
+Campephaga oriolina,Campephaga_oriolina,Eastern Wattled Cuckooshrike,Lobotos oriolinus,BL3,CC4,Campephagidae,Cuckoo-shrikes,136,PASSERIFORMES,Passeri,No
+Coracina montana,Coracina_montana,Black-bellied Cuckooshrike,Edolisoma montanum,BL3,CC4,Campephagidae,Cuckoo-shrikes,136,PASSERIFORMES,Passeri,No
+Coracina mindanensis,Coracina_mindanensis,Black-bibbed Cicadabird,Edolisoma mindanense,BL3,CC4,Campephagidae,Cuckoo-shrikes,136,PASSERIFORMES,Passeri,No
+Coracina melas,Coracina_melas,New Guinea Cuckooshrike,Coracina papuensis,BL3,CC4,Campephagidae,Cuckoo-shrikes,136,PASSERIFORMES,Passeri,No
+Lanius marwitzi,Lanius_marwitzi,Uhehe Fiscal,Lanius collaris,BL3,CC8,Laniidae,Shrikes,140,PASSERIFORMES,Passeri,No
+Hylophilus sclateri,Hylophilus_sclateri,Tepui Greenlet,Vireo sclateri,BL3,CC3,Vireonidae,Vireos and allies,141,PASSERIFORMES,Passeri,No
+Pitohui cristatus,Pitohui_cristatus,Crested Pitohui,Ornorectes cristatus,BL3,CC5CC6a,Colluricinclidae,Shrike-thrushes and allies,143,PASSERIFORMES,Passeri,No
+Colluricincla sanghirensis,Colluricincla_sanghirensis,Sangihe Shrike-thrush,Coracornis sanghirensis,BL3,CC5CC6b,Colluricinclidae,Shrike-thrushes and allies,143,PASSERIFORMES,Passeri,No
+Colluricincla umbrina,Colluricincla_umbrina,Sooty Shrike-thrush,Colluricincla tenebrosa,BL3,CC5CC6b,Colluricinclidae,Shrike-thrushes and allies,143,PASSERIFORMES,Passeri,No
+Chelidorhynx hypoxantha,Chelidorhynx_hypoxantha,Yellow-bellied Fantail,Chelidorhynx hypoxanthus,IOC27,S2,Rhipiduridae,Fantails,145,PASSERIFORMES,Passeri,No
+Monarcha julianae,Monarcha_julianae,Black-backed Monarch,Symposiachrus julianae,BL3,CC8,Monarchidae,Monarchs,146,PASSERIFORMES,Passeri,No
+Monarcha axillaris,Monarcha_axillaris,Black Monarch,Symposiachrus axillaris,BL3,CC8,Monarchidae,Monarchs,146,PASSERIFORMES,Passeri,No
+Terpsiphone smithii,Terpsiphone_smithii,Annobon Paradise Flycatcher,Terpsiphone rufiventer,IOC27,CC8,Monarchidae,Monarchs,146,PASSERIFORMES,Passeri,No
+Clytorhynchus sanctaecrucis,Clytorhynchus_sanctaecrucis,Santa Cruz Shrikebill,Clytorhynchus nigrogularis,BL3,CC8,Monarchidae,Monarchs,146,PASSERIFORMES,Passeri,No
+Urocissa erythrorhyncha,Urocissa_erythrorhyncha,Blue Magpie,Urocissa erythroryncha,BL3,CC8,Corvidae,Crows and jays,147,PASSERIFORMES,Passeri,No
+Corvus minutus,Corvus_minutus,Cuban Palm Crow,Corvus palmarum,IOC27,CC8,Corvidae,Crows and jays,147,PASSERIFORMES,Passeri,No
+Corvus levaillantii,Corvus_levaillantii,Jungle Crow,Corvus macrorhynchos,BL3,CC8,Corvidae,Crows and jays,147,PASSERIFORMES,Passeri,No
+Cyanocorax luxuosus,Cyanocorax_luxuosus,Green Jay,Cyanocorax yncas,IOC27,CC8,Corvidae,Crows and jays,147,PASSERIFORMES,Passeri,No
+Parotia helenae,Parotia_helenae,Eastern Parotia,Parotia lawesii,BL3,CC8,Paradisaeidae,Birds of paradise,149,PASSERIFORMES,Passeri,No
+Ptilogonys cinereus,Ptilogonys_cinereus,Grey Silky-flycatcher,Ptiliogonys cinereus,BL3,M2,Bombycillidae,Waxwings,152,PASSERIFORMES,Passeri,No
+Parus xanthogenys,Parus_xanthogenys,Black-lored Tit,Machlolophus xanthogenys,BL3,S2,Paridae,Tits and chickadees,154,PASSERIFORMES,Passeri,No
+Parus rufonuchalis,Parus_rufonuchalis,Dark-grey Tit,Periparus rufonuchalis,BL3,S2,Paridae,Tits and chickadees,154,PASSERIFORMES,Passeri,No
+Parus afer,Parus_afer,Grey Tit,Melaniparus afer,BL3,S2,Paridae,Tits and chickadees,154,PASSERIFORMES,Passeri,No
+Parus leucomelas,Parus_leucomelas,White-winged Tit,Melaniparus leucomelas,BL3,S2,Paridae,Tits and chickadees,154,PASSERIFORMES,Passeri,No
+Parus niger,Parus_niger,Black Tit,Melaniparus niger,BL3,S2,Paridae,Tits and chickadees,154,PASSERIFORMES,Passeri,No
+Parus holsti,Parus_holsti,Yellow Tit,Machlolophus holsti,BL3,S2,Paridae,Tits and chickadees,154,PASSERIFORMES,Passeri,No
+Parus caeruleus,Parus_caeruleus,Blue Tit,Cyanistes caeruleus,BL3,S2,Paridae,Tits and chickadees,154,PASSERIFORMES,Passeri,No
+Parus carpi,Parus_carpi,Carp's Black Tit,Melaniparus carpi,IOC27,S2,Paridae,Tits and chickadees,154,PASSERIFORMES,Passeri,No
+Parus cinctus,Parus_cinctus,Siberian Tit,Poecile cinctus,BL3,S2,Paridae,Tits and chickadees,154,PASSERIFORMES,Passeri,No
+Parus leuconotus,Parus_leuconotus,White-backed Tit,Melaniparus leuconotus,BL3,S2,Paridae,Tits and chickadees,154,PASSERIFORMES,Passeri,No
+Parus davidi,Parus_davidi,Rusty-breasted Tit,Poecile davidi,BL3,S2,Paridae,Tits and chickadees,154,PASSERIFORMES,Passeri,No
+Parus dichrous,Parus_dichrous,Grey-crested Tit,Lophophanes dichrous,BL3,S2,Paridae,Tits and chickadees,154,PASSERIFORMES,Passeri,No
+Eurochelidon sirintarae,Eurochelidon_sirintarae,White-eyed River-martin,Pseudochelidon sirintarae,BL3,S6,Hirundinidae,Swallows and martins,156,PASSERIFORMES,Passeri,No
+Hirundo obsoleta,Hirundo_obsoleta,Pale Crag-martin,Ptyonoprogne fuligula,BL3,S6,Hirundinidae,Swallows and martins,156,PASSERIFORMES,Passeri,No
+Hirundo rupestris,Hirundo_rupestris,Eurasian Crag-martin,Ptyonoprogne rupestris,BL3,S6,Hirundinidae,Swallows and martins,156,PASSERIFORMES,Passeri,No
+Hirundo abyssinica,Hirundo_abyssinica,Lesser Striped-swallow,Cecropis abyssinica,BL3,S6,Hirundinidae,Swallows and martins,156,PASSERIFORMES,Passeri,No
+Hirundo concolor,Hirundo_concolor,Dusky Crag-martin,Ptyonoprogne concolor,BL3,S6,Hirundinidae,Swallows and martins,156,PASSERIFORMES,Passeri,No
+Hirundo cucullata,Hirundo_cucullata,Greater Striped-swallow,Cecropis cucullata,BL3,S6,Hirundinidae,Swallows and martins,156,PASSERIFORMES,Passeri,No
+Mirafra africanoides,Mirafra_africanoides,Fawn-coloured Lark,Calendulauda africanoides,BL3,S3,Alaudidae,Larks,158,PASSERIFORMES,Passeri,No
+Mirafra alopex,Mirafra_alopex,Abyssinian Lark,Calendulauda alopex,BL3,S3,Alaudidae,Larks,158,PASSERIFORMES,Passeri,No
+Calandrella raytal,Calandrella_raytal,Indian Short-toed Lark,Alaudala raytal,BL3,S3,Alaudidae,Larks,158,PASSERIFORMES,Passeri,No
+Calandrella somalica,Calandrella_somalica,Rufous Short-toed Lark,Alaudala rufescens,BL3,S3,Alaudidae,Larks,158,PASSERIFORMES,Passeri,No
+Alauda japonica,Alauda_japonica,Japanese Skylark,Alauda arvensis,BL3,S3,Alaudidae,Larks,158,PASSERIFORMES,Passeri,No
+Heteromirafra sidamoensis,Heteromirafra_sidamoensis,Liben Lark,Heteromirafra archeri,BL3,S3,Alaudidae,Larks,158,PASSERIFORMES,Passeri,No
+Prinia robertsi,Prinia_robertsi,Briar Warbler,Oreophilais robertsi,BL3,S10,Cisticolidae,Cisticolas and allies,159,PASSERIFORMES,Passeri,No
+Prinia leontica,Prinia_leontica,White-eyed Prinia,Schistolais leontica,BL3,S10,Cisticolidae,Cisticolas and allies,159,PASSERIFORMES,Passeri,No
+Spiloptila rufifrons,Spiloptila_rufifrons,Red-faced Apalis,Prinia rufifrons,BL3,S10,Cisticolidae,Cisticolas and allies,159,PASSERIFORMES,Passeri,No
+Apalis flavigularis,Apalis_flavigularis,Yellow-throated Apalis,Apalis thoracica,BL3,S10,Cisticolidae,Cisticolas and allies,159,PASSERIFORMES,Passeri,No
+Camaroptera simplex,Camaroptera_simplex,Grey Wren-warbler,Calamonastes simplex,BL3,S10,Cisticolidae,Cisticolas and allies,159,PASSERIFORMES,Passeri,No
+Camaroptera fasciolata,Camaroptera_fasciolata,Barred Wren-warbler,Calamonastes fasciolatus,BL3,S10,Cisticolidae,Cisticolas and allies,159,PASSERIFORMES,Passeri,No
+Camaroptera undosa,Camaroptera_undosa,Miombo Wren-warbler,Calamonastes undosus,BL3,S10,Cisticolidae,Cisticolas and allies,159,PASSERIFORMES,Passeri,No
+Apalis lynesi,Apalis_lynesi,Namuli Apalis,Apalis thoracica,BL3,S10,Cisticolidae,Cisticolas and allies,159,PASSERIFORMES,Passeri,No
+Apalis fuscigularis,Apalis_fuscigularis,Taita Apalis,Apalis thoracica,BL3,S10,Cisticolidae,Cisticolas and allies,159,PASSERIFORMES,Passeri,No
+Cisticola discolor,Cisticola_discolor,Brown-backed Cisticola,Cisticola chubbi,BL3,S10,Cisticolidae,Cisticolas and allies,159,PASSERIFORMES,Passeri,No
+Heliolais erythropterus,Heliolais_erythropterus,Red-winged Warbler,Drymocichla incana,BL3,S10,Cisticolidae,Cisticolas and allies,159,PASSERIFORMES,Passeri,No
+Pycnonotus cyaniventris,Pycnonotus_cyaniventris,Grey-bellied Bulbul,Rubigula cyaniventris,BL3,S9,Pycnonotidae,Bulbuls,160,PASSERIFORMES,Passeri,No
+Phyllastrephus leucolepis,Phyllastrephus_leucolepis,Liberian Greenbul,Phyllastrephus icterinus,BL3,S9,Pycnonotidae,Bulbuls,160,PASSERIFORMES,Passeri,No
+Pycnonotus priocephalus,Pycnonotus_priocephalus,Grey-headed Bulbul,Brachypodius priocephalus,BL3,S9,Pycnonotidae,Bulbuls,160,PASSERIFORMES,Passeri,No
+Andropadus nigriceps,Andropadus_nigriceps,Eastern Mountain Greenbul,Arizelocichla nigriceps,BL3,S9,Pycnonotidae,Bulbuls,160,PASSERIFORMES,Passeri,No
+Andropadus tephrolaemus,Andropadus_tephrolaemus,Western Mountain Greenbul,Arizelocichla tephrolaema,BL3,S9,Pycnonotidae,Bulbuls,160,PASSERIFORMES,Passeri,No
+Andropadus montanus,Andropadus_montanus,Cameroon Montane Greenbul,Arizelocichla montana,BL3,S9,Pycnonotidae,Bulbuls,160,PASSERIFORMES,Passeri,No
+Andropadus gracilis,Andropadus_gracilis,Grey Greenbul,Eurillas gracilis,BL3,S9,Pycnonotidae,Bulbuls,160,PASSERIFORMES,Passeri,No
+Hypsipetes virescens,Hypsipetes_virescens,Green-winged Bulbul,Hemixos flavala,BL3,S9,Pycnonotidae,Bulbuls,160,PASSERIFORMES,Passeri,No
+Phylloscopus davisoni,Phylloscopus_davisoni,Davison's Leaf-warbler,Phylloscopus intensior,BL3,S7S8,Sylviidae,Old World warblers,161,PASSERIFORMES,Passeri,No
+Phylloscopus poliocephalus,Phylloscopus_poliocephalus,Island Leaf-warbler,Phylloscopus maforensis,BL3,S7S8,Sylviidae,Old World warblers,161,PASSERIFORMES,Passeri,No
+Seicercus poliogenys,Seicercus_poliogenys,Grey-cheeked Warbler,Phylloscopus poliogenys,BL3,S7S8,Sylviidae,Old World warblers,161,PASSERIFORMES,Passeri,No
+Seicercus soror,Seicercus_soror,Alstrom's Warbler,Phylloscopus soror,BL3,S7S8,Sylviidae,Old World warblers,161,PASSERIFORMES,Passeri,No
+Sylvia rueppelli,Sylvia_rueppelli,Rueppell's Warbler,Sylvia ruppeli,BL3,S12,Sylviidae,Old World warblers,161,PASSERIFORMES,Passeri,No
+Seicercus tephrocephalus,Seicercus_tephrocephalus,Grey-crowned Warbler,Phylloscopus tephrocephalus,BL3,S7S8,Sylviidae,Old World warblers,161,PASSERIFORMES,Passeri,No
+Seicercus burkii,Seicercus_burkii,Green-crowned Warbler,Phylloscopus burkii,BL3,S7S8,Sylviidae,Old World warblers,161,PASSERIFORMES,Passeri,No
+Chloropeta gracilirostris,Chloropeta_gracilirostris,Papyrus Yellow Warbler,Calamonastides gracilirostris,BL3,S11,Sylviidae,Old World warblers,161,PASSERIFORMES,Passeri,No
+Bowdleria punctata,Bowdleria_punctata,New Zealand Fernbird,Megalurus punctatus,BL3,S11,Sylviidae,Old World warblers,161,PASSERIFORMES,Passeri,No
+Bernieria cinereiceps,Bernieria_cinereiceps,Grey-crowned Tetraka,Xanthomixis cinereiceps,BL3,S9,Sylviidae,Old World warblers,161,PASSERIFORMES,Passeri,No
+Bathmocercus winifredae,Bathmocercus_winifredae,Mrs Moreau's Warbler,Scepomycter winifredae,BL3,S10,Sylviidae,Old World warblers,161,PASSERIFORMES,Passeri,No
+Chloropeta similis,Chloropeta_similis,Mountain Flycatcher-warbler,Iduna similis,BL3,S11,Sylviidae,Old World warblers,161,PASSERIFORMES,Passeri,No
+Cettia diphone,Cettia_diphone,Japanese Bush-warbler,Horornis diphone,BL3,S7S8,Sylviidae,Old World warblers,161,PASSERIFORMES,Passeri,No
+Cettia flavolivacea,Cettia_flavolivacea,Aberrant Bush-warbler,Horornis flavolivaceus,BL3,S7S8,Sylviidae,Old World warblers,161,PASSERIFORMES,Passeri,No
+Cettia fortipes,Cettia_fortipes,Brownish-flanked Bush-warbler,Horornis fortipes,BL3,S7S8,Sylviidae,Old World warblers,161,PASSERIFORMES,Passeri,No
+Cettia haddeni,Cettia_haddeni,Bougainville Bush-warbler,Horornis haddeni,BL3,S7S8,Sylviidae,Old World warblers,161,PASSERIFORMES,Passeri,No
+Cettia pallidipes,Cettia_pallidipes,Pale-footed Bush-warbler,Urosphena pallidipes,BL3,S7S8,Sylviidae,Old World warblers,161,PASSERIFORMES,Passeri,No
+Cettia ruficapilla,Cettia_ruficapilla,Fiji Bush-warbler,Horornis ruficapilla,BL3,S7S8,Sylviidae,Old World warblers,161,PASSERIFORMES,Passeri,No
+Cettia seebohmi,Cettia_seebohmi,Philippine Bush-warbler,Horornis seebohmi,BL3,S7S8,Sylviidae,Old World warblers,161,PASSERIFORMES,Passeri,No
+Bradypterus victorini,Bradypterus_victorini,Victorin's Scrub-warbler,Cryptillas victorini,BL3,S4,Sylviidae,Old World warblers,161,PASSERIFORMES,Passeri,No
+Bradypterus timorensis,Bradypterus_timorensis,Timor Bush-warbler,Locustella montis,BL3,S11,Sylviidae,Old World warblers,161,PASSERIFORMES,Passeri,No
+Bradypterus thoracicus,Bradypterus_thoracicus,Spotted Bush-warbler,Locustella thoracica,BL3,S11,Sylviidae,Old World warblers,161,PASSERIFORMES,Passeri,No
+Bradypterus montis,Bradypterus_montis,Javan Bush-warbler,Locustella montis,BL3,S11,Sylviidae,Old World warblers,161,PASSERIFORMES,Passeri,No
+Acrocephalus rimatarae,Acrocephalus_rimatarae,Rimatara Reed-warbler,Acrocephalus rimitarae,BL3,S11,Sylviidae,Old World warblers,161,PASSERIFORMES,Passeri,No
+Cettia acanthizoides,Cettia_acanthizoides,Yellowish-bellied Bush-warbler,Horornis acanthizoides,BL3,S7S8,Sylviidae,Old World warblers,161,PASSERIFORMES,Passeri,No
+Cettia annae,Cettia_annae,Palau Bush-warbler,Horornis annae,BL3,S7S8,Sylviidae,Old World warblers,161,PASSERIFORMES,Passeri,No
+Cettia brunnescens,Cettia_brunnescens,Hume's Bush-warbler,Horornis brunnescens,BL3,S7S8,Sylviidae,Old World warblers,161,PASSERIFORMES,Passeri,No
+Cettia canturians,Cettia_canturians,Manchurian Bush-warbler,Horornis borealis,BL3,S7S8,Sylviidae,Old World warblers,161,PASSERIFORMES,Passeri,No
+Cettia carolinae,Cettia_carolinae,Tanimbar Bush-warbler,Horornis carolinae,BL3,S7S8,Sylviidae,Old World warblers,161,PASSERIFORMES,Passeri,No
+Bradypterus tacsanowskius,Bradypterus_tacsanowskius,Chinese Bush-warbler,Locustella tacsanowskia,BL3,S11,Sylviidae,Old World warblers,161,PASSERIFORMES,Passeri,No
+Bradypterus davidi,Bradypterus_davidi,David's Bush-warbler,Locustella davidi,BL3,S11,Sylviidae,Old World warblers,161,PASSERIFORMES,Passeri,No
+Bradypterus caudatus,Bradypterus_caudatus,Long-tailed Bush-warbler,Locustella caudata,BL3,S11,Sylviidae,Old World warblers,161,PASSERIFORMES,Passeri,No
+Bradypterus alishanensis,Bradypterus_alishanensis,Taiwan Bush-warbler,Locustella alishanensis,BL3,S11,Sylviidae,Old World warblers,161,PASSERIFORMES,Passeri,No
+Bradypterus accentor,Bradypterus_accentor,Friendly Bush-warbler,Locustella accentor,BL3,S11,Sylviidae,Old World warblers,161,PASSERIFORMES,Passeri,No
+Chloropeta natalensis,Chloropeta_natalensis,Yellow Flycatcher-warbler,Iduna natalensis,BL3,S11,Sylviidae,Old World warblers,161,PASSERIFORMES,Passeri,No
+Cettia vulcania,Cettia_vulcania,Sunda Bush-warbler,Horornis vulcanius,BL3,S7S8,Sylviidae,Old World warblers,161,PASSERIFORMES,Passeri,No
+Bradypterus castaneus,Bradypterus_castaneus,Chestnut-backed Bush-warbler,Locustella castanea,BL3,S11,Sylviidae,Old World warblers,161,PASSERIFORMES,Passeri,No
+Bradypterus palliseri,Bradypterus_palliseri,Sri Lanka Bush-warbler,Elaphrornis palliseri,BL3,S11,Sylviidae,Old World warblers,161,PASSERIFORMES,Passeri,No
+Bradypterus mandelli,Bradypterus_mandelli,Russet Bush-warbler,Locustella mandelli,BL3,S11,Sylviidae,Old World warblers,161,PASSERIFORMES,Passeri,No
+Bradypterus major,Bradypterus_major,Long-billed Bush-warbler,Locustella major,BL3,S11,Sylviidae,Old World warblers,161,PASSERIFORMES,Passeri,No
+Bradypterus luteoventris,Bradypterus_luteoventris,Brown Bush-warbler,Locustella luteoventris,BL3,S11,Sylviidae,Old World warblers,161,PASSERIFORMES,Passeri,No
+Bradypterus seebohmi,Bradypterus_seebohmi,Benguet Bush-warbler,Locustella seebohmi,BL3,S11,Sylviidae,Old World warblers,161,PASSERIFORMES,Passeri,No
+Dromaeocercus brunneus,Dromaeocercus_brunneus,Brown Emu-tail,Bradypterus brunneus,BL3,S11,Sylviidae,Old World warblers,161,PASSERIFORMES,Passeri,No
+Thryothorus modestus,Thryothorus_modestus,Plain Wren,Cantorchilus modestus,BL3,M1,Troglodytidae,Wrens,162,PASSERIFORMES,Passeri,No
+Thryothorus griseus,Thryothorus_griseus,Grey Wren,Cantorchilus griseus,BL3,M1,Troglodytidae,Wrens,162,PASSERIFORMES,Passeri,No
+Paradoxornis zappeyi,Paradoxornis_zappeyi,Grey-hooded Parrotbill,Sinosuthora zappeyi,BL3,S12,Timaliidae,Babblers and parrotbills,163,PASSERIFORMES,Passeri,No
+Pomatorhinus erythrocnemis,Pomatorhinus_erythrocnemis,Black-necklaced Scimitar-babbler,Megapomatorhinus erythrocnemis,BL3,S13,Timaliidae,Babblers and parrotbills,163,PASSERIFORMES,Passeri,No
+Paradoxornis gularis,Paradoxornis_gularis,Grey-headed Parrotbill,Psittiparus gularis,BL3,S12,Timaliidae,Babblers and parrotbills,163,PASSERIFORMES,Passeri,No
+Pomatorhinus erythrogenys,Pomatorhinus_erythrogenys,Rusty-cheeked Scimitar-babbler,Megapomatorhinus erythrogenys,BL3,S13,Timaliidae,Babblers and parrotbills,163,PASSERIFORMES,Passeri,No
+Pomatorhinus swinhoei,Pomatorhinus_swinhoei,Grey-sided Scimitar-babbler,Megapomatorhinus swinhoei,BL3,S13,Timaliidae,Babblers and parrotbills,163,PASSERIFORMES,Passeri,No
+Rimator albostriatus,Rimator_albostriatus,Sumatran Wren-babbler,Napothera albostriata,BL3,S13,Timaliidae,Babblers and parrotbills,163,PASSERIFORMES,Passeri,No
+Rimator malacoptilus,Rimator_malacoptilus,Long-billed Wren-babbler,Napothera malacoptila,BL3,S13,Timaliidae,Babblers and parrotbills,163,PASSERIFORMES,Passeri,No
+Rimator pasquieri,Rimator_pasquieri,White-throated Wren-babbler,Napothera pasquieri,BL3,S13,Timaliidae,Babblers and parrotbills,163,PASSERIFORMES,Passeri,No
+Napothera crassa,Napothera_crassa,Mountain Wren-babbler,Turdinus crassus,BL3,S13,Timaliidae,Babblers and parrotbills,163,PASSERIFORMES,Passeri,No
+Napothera brevicaudata,Napothera_brevicaudata,Streaked Wren-babbler,Turdinus brevicaudatus,BL3,S13,Timaliidae,Babblers and parrotbills,163,PASSERIFORMES,Passeri,No
+Pomatorhinus gravivox,Pomatorhinus_gravivox,Black-streaked Scimitar-babbler,Megapomatorhinus gravivox,BL3,S13,Timaliidae,Babblers and parrotbills,163,PASSERIFORMES,Passeri,No
+Pomatorhinus mcclellandi,Pomatorhinus_mcclellandi,Spot-breasted Scimitar-babbler,Megapomatorhinus mcclellandi,BL3,S13,Timaliidae,Babblers and parrotbills,163,PASSERIFORMES,Passeri,No
+Pomatorhinus hypoleucos,Pomatorhinus_hypoleucos,Large Scimitar-babbler,Megapomatorhinus hypoleucos,BL3,S13,Timaliidae,Babblers and parrotbills,163,PASSERIFORMES,Passeri,No
+Trichastoma tickelli,Trichastoma_tickelli,Buff-breasted babbler,Pellorneum tickelli,BL3,S13,Timaliidae,Babblers and parrotbills,163,PASSERIFORMES,Passeri,No
+Strophocincla cachinnans,Strophocincla_cachinnans,Black-chinned Laughingthrush,Montecincla cachinnans,BL3,S13,Timaliidae,Babblers and parrotbills,163,PASSERIFORMES,Passeri,No
+Strophocincla fairbanki,Strophocincla_fairbanki,Kerala Laughingthrush,Montecincla fairbanki,BL3,S13,Timaliidae,Babblers and parrotbills,163,PASSERIFORMES,Passeri,No
+Spelaeornis formosus,Spelaeornis_formosus,Spotted Wren-babbler,Elachura formosa,BL3,S13,Timaliidae,Babblers and parrotbills,163,PASSERIFORMES,Passeri,No
+Stachyris plateni,Stachyris_plateni,Mindanao Pygmy-babbler,Dasycrotapha plateni,BL3,S13,Timaliidae,Babblers and parrotbills,163,PASSERIFORMES,Passeri,No
+Stachyris pygmaea,Stachyris_pygmaea,Visayan Pygmy Babbler,Dasycrotapha pygmaea,BL3,S13,Timaliidae,Babblers and parrotbills,163,PASSERIFORMES,Passeri,No
+Stachyris striata,Stachyris_striata,Luzon Striped-babbler,Zosterornis striatus,BL3,S13,Timaliidae,Babblers and parrotbills,163,PASSERIFORMES,Passeri,No
+Xiphirhynchus superciliaris,Xiphirhynchus_superciliaris,Slender-billed Scimitar-babbler,Pomatorhinus superciliaris,BL3,S13,Timaliidae,Babblers and parrotbills,163,PASSERIFORMES,Passeri,No
+Stachyris latistriata,Stachyris_latistriata,Panay Striped-babbler,Zosterornis latistriatus,BL3,S13,Timaliidae,Babblers and parrotbills,163,PASSERIFORMES,Passeri,No
+Stachyris hypogrammica,Stachyris_hypogrammica,Palawan Striped-babbler,Zosterornis hypogrammicus,BL3,S13,Timaliidae,Babblers and parrotbills,163,PASSERIFORMES,Passeri,No
+Stachyris nigrorum,Stachyris_nigrorum,Negros Striped-babbler,Zosterornis nigrorum,BL3,S13,Timaliidae,Babblers and parrotbills,163,PASSERIFORMES,Passeri,No
+Turdinus marmorata,Turdinus_marmorata,Marbled Wren-babbler,Turdinus marmoratus,BL3,S13,Timaliidae,Babblers and parrotbills,163,PASSERIFORMES,Passeri,No
+Alcippe cinereiceps,Alcippe_cinereiceps,Grey-hooded Fulvetta,Fulvetta cinereiceps,BL3,S12,Timaliidae,Babblers and parrotbills,163,PASSERIFORMES,Passeri,No
+Horizorhinus dohrni,Horizorhinus_dohrni,Principe Thrush-babbler,Sylvia dohrni,BL3,S12,Timaliidae,Babblers and parrotbills,163,PASSERIFORMES,Passeri,No
+Garrulax bieti,Garrulax_bieti,White-speckled Laughingthrush,Ianthocincla bieti,BL3,S13,Timaliidae,Babblers and parrotbills,163,PASSERIFORMES,Passeri,No
+Garrulax caerulatus,Garrulax_caerulatus,Grey-sided Laughingthrush,Ianthocincla caerulata,BL3,S13,Timaliidae,Babblers and parrotbills,163,PASSERIFORMES,Passeri,No
+Garrulax davidi,Garrulax_davidi,Plain Laughingthrush,Ianthocincla davidi,BL3,S13,Timaliidae,Babblers and parrotbills,163,PASSERIFORMES,Passeri,No
+Macronous gularis,Macronous_gularis,Pin-striped Tit-babbler,Mixornis gularis,BL3,S13,Timaliidae,Babblers and parrotbills,163,PASSERIFORMES,Passeri,No
+Kupeornis chapini,Kupeornis_chapini,Chapin's Mountain-babbler,Turdoides chapini,BL3,S13,Timaliidae,Babblers and parrotbills,163,PASSERIFORMES,Passeri,No
+Kupeornis gilberti,Kupeornis_gilberti,White-throated Mountain-babbler,Turdoides gilberti,BL3,S13,Timaliidae,Babblers and parrotbills,163,PASSERIFORMES,Passeri,No
+Kupeornis rufocinctus,Kupeornis_rufocinctus,Red-collared Mountain-babbler,Turdoides rufocincta,BL3,S13,Timaliidae,Babblers and parrotbills,163,PASSERIFORMES,Passeri,No
+Macronous ptilosus,Macronous_ptilosus,Fluffy-backed Tit-babbler,Macronus ptilosus,BL3,S13,Timaliidae,Babblers and parrotbills,163,PASSERIFORMES,Passeri,No
+Macronous bornensis,Macronous_bornensis,Bold-striped Tit-babbler,Mixornis bornensis,BL3,S13,Timaliidae,Babblers and parrotbills,163,PASSERIFORMES,Passeri,No
+Macronous striaticeps,Macronous_striaticeps,Brown Tit-babbler,Macronus striaticeps,BL3,S13,Timaliidae,Babblers and parrotbills,163,PASSERIFORMES,Passeri,No
+Macronous kelleyi,Macronous_kelleyi,Grey-faced Tit-babbler,Mixornis kelleyi,BL3,S13,Timaliidae,Babblers and parrotbills,163,PASSERIFORMES,Passeri,No
+Garrulax henrici,Garrulax_henrici,Brown-cheeked Laughingthrush,Trochalopteron henrici,BL3,S13,Timaliidae,Babblers and parrotbills,163,PASSERIFORMES,Passeri,No
+Jabouilleia danjoui,Jabouilleia_danjoui,Short-tailed Scimitar-babbler,Napothera danjoui,BL3,S13,Timaliidae,Babblers and parrotbills,163,PASSERIFORMES,Passeri,No
+Gypsophila crispifrons,Gypsophila_crispifrons,Limestone Wren-babbler,Turdinus crispifrons,BL3,S13,Timaliidae,Babblers and parrotbills,163,PASSERIFORMES,Passeri,No
+Macronous flavicollis,Macronous_flavicollis,Grey-cheeked Tit-babbler,Mixornis flavicollis,BL3,S13,Timaliidae,Babblers and parrotbills,163,PASSERIFORMES,Passeri,No
+Speirops brunneus,Speirops_brunneus,Fernando Po Speirops,Zosterops brunneus,BL3,S13,Zosteropidae,White-eyes,164,PASSERIFORMES,Passeri,No
+Zosterops chloronothus,Zosterops_chloronothus,Mauritius Olive White-eye,Zosterops chloronothos,BL3,S13,Zosteropidae,White-eyes,164,PASSERIFORMES,Passeri,No
+Speirops melanocephalus,Speirops_melanocephalus,Mount Cameroon Speirops,Zosterops melanocephalus,BL3,S13,Zosteropidae,White-eyes,164,PASSERIFORMES,Passeri,No
+Zosterops rendovae,Zosterops_rendovae,Grey-throated White-eye,Zosterops ugiensis,BL3,S13,Zosteropidae,White-eyes,164,PASSERIFORMES,Passeri,No
+Muscicapa boehmi,Muscicapa_boehmi,Boehm's Flycatcher,Bradornis boehmi,BL3,M6,Muscicapidae,Chats and Old World flycatchers,167,PASSERIFORMES,Passeri,No
+Myioparus plumbeus,Myioparus_plumbeus,Grey Tit-flycatcher,Fraseria plumbea,BL3,M6,Muscicapidae,Chats and Old World flycatchers,167,PASSERIFORMES,Passeri,No
+Myioparus griseigularis,Myioparus_griseigularis,Grey-throated Tit-flycatcher,Fraseria griseigularis,BL3,M6,Muscicapidae,Chats and Old World flycatchers,167,PASSERIFORMES,Passeri,No
+Myiomela major,Myiomela_major,Nilgiri Blue Robin,Sholicola major,BL3,M6,Muscicapidae,Chats and Old World flycatchers,167,PASSERIFORMES,Passeri,No
+Rhyacornis fuliginosa,Rhyacornis_fuliginosa,Plumbeous Water-redstart,Phoenicurus fuliginosus,BL3,M6,Muscicapidae,Chats and Old World flycatchers,167,PASSERIFORMES,Passeri,No
+Myiomela albiventris,Myiomela_albiventris,White-bellied Blue Robin,Sholicola albiventris,BL3,M6,Muscicapidae,Chats and Old World flycatchers,167,PASSERIFORMES,Passeri,No
+Myrmecocichla cinnamomeiventris,Myrmecocichla_cinnamomeiventris,Mocking Cliff-chat,Thamnolaea cinnamomeiventris,BL3,M6,Muscicapidae,Chats and Old World flycatchers,167,PASSERIFORMES,Passeri,No
+Myrmecocichla arnoti,Myrmecocichla_arnoti,White-headed Black-chat,Myrmecocichla arnotti,BL3,M6,Muscicapidae,Chats and Old World flycatchers,167,PASSERIFORMES,Passeri,No
+Myrmecocichla semirufa,Myrmecocichla_semirufa,White-winged Cliff-chat,Thamnolaea semirufa,BL3,M6,Muscicapidae,Chats and Old World flycatchers,167,PASSERIFORMES,Passeri,No
+Muscicapella hodgsoni,Muscicapella_hodgsoni,Pygmy Blue-flycatcher,Ficedula hodgsoni,BL3,M6,Muscicapidae,Chats and Old World flycatchers,167,PASSERIFORMES,Passeri,No
+Rhyacornis bicolor,Rhyacornis_bicolor,Luzon Water-redstart,Phoenicurus bicolor,BL3,M6,Muscicapidae,Chats and Old World flycatchers,167,PASSERIFORMES,Passeri,No
+Rhinomyias insignis,Rhinomyias_insignis,White-browed Jungle-flycatcher,Vauriella insignis,BL3,M6,Muscicapidae,Chats and Old World flycatchers,167,PASSERIFORMES,Passeri,No
+Rhinomyias goodfellowi,Rhinomyias_goodfellowi,Slaty-backed Jungle-flycatcher,Vauriella goodfellowi,BL3,M6,Muscicapidae,Chats and Old World flycatchers,167,PASSERIFORMES,Passeri,No
+Rhinomyias albigularis,Rhinomyias_albigularis,White-throated Jungle-flycatcher,Vauriella albigularis,BL3,M6,Muscicapidae,Chats and Old World flycatchers,167,PASSERIFORMES,Passeri,No
+Rhinomyias additus,Rhinomyias_additus,Streaky-breasted Jungle-flycatcher,Eumyias additus,BL3,M6,Muscicapidae,Chats and Old World flycatchers,167,PASSERIFORMES,Passeri,No
+Rhinomyias oscillans,Rhinomyias_oscillans,Russet-backed Jungle-flycatcher,Cyornis oscillans,BL3,M6,Muscicapidae,Chats and Old World flycatchers,167,PASSERIFORMES,Passeri,No
+Rhinomyias olivaceus,Rhinomyias_olivaceus,Fulvous-chested Jungle-flycatcher,Cyornis olivaceus,BL3,M6,Muscicapidae,Chats and Old World flycatchers,167,PASSERIFORMES,Passeri,No
+Rhinomyias gularis,Rhinomyias_gularis,Eyebrowed Jungle-flycatcher,Vauriella gularis,BL3,M6,Muscicapidae,Chats and Old World flycatchers,167,PASSERIFORMES,Passeri,No
+Oenanthe bifasciata,Oenanthe_bifasciata,Buff-streaked Chat,Saxicola bifasciatus,BL3,M6,Muscicapidae,Chats and Old World flycatchers,167,PASSERIFORMES,Passeri,No
+Oenanthe chrysopygia,Oenanthe_chrysopygia,Red-tailed Wheatear,Oenanthe xanthoprymna,BL3,M6,Muscicapidae,Chats and Old World flycatchers,167,PASSERIFORMES,Passeri,No
+Rhinomyias umbratilis,Rhinomyias_umbratilis,Grey-chested Jungle-flycatcher,Cyornis umbratilis,BL3,M6,Muscicapidae,Chats and Old World flycatchers,167,PASSERIFORMES,Passeri,No
+Rhinomyias ruficauda,Rhinomyias_ruficauda,Rufous-tailed Jungle-flycatcher,Cyornis ruficauda,BL3,M6,Muscicapidae,Chats and Old World flycatchers,167,PASSERIFORMES,Passeri,No
+Rhinomyias colonus,Rhinomyias_colonus,Henna-tailed Jungle-flycatcher,Cyornis colonus,BL3,M6,Muscicapidae,Chats and Old World flycatchers,167,PASSERIFORMES,Passeri,No
+Rhinomyias brunneatus,Rhinomyias_brunneatus,Brown-chested Jungle-flycatcher,Cyornis brunneatus,BL3,M6,Muscicapidae,Chats and Old World flycatchers,167,PASSERIFORMES,Passeri,No
+Monticola erythronotus,Monticola_erythronotus,Amber Mountain Rock-thrush,Monticola sharpei,BL3,M6,Muscicapidae,Chats and Old World flycatchers,167,PASSERIFORMES,Passeri,No
+Monticola cinclorhynchus,Monticola_cinclorhynchus,Blue-capped Rock-thrush,Monticola cinclorhyncha,BL3,M6,Muscicapidae,Chats and Old World flycatchers,167,PASSERIFORMES,Passeri,No
+Monticola imerinus,Monticola_imerinus,Littoral Rock-thrush,Monticola imerina,BL3,M6,Muscicapidae,Chats and Old World flycatchers,167,PASSERIFORMES,Passeri,No
+Copsychus stricklandii,Copsychus_stricklandii,White-crowned Shama,Copsychus malabaricus,IOC27,M6,Muscicapidae,Chats and Old World flycatchers,167,PASSERIFORMES,Passeri,No
+Chaimarrornis leucocephalus,Chaimarrornis_leucocephalus,White-capped Water-redstart,Phoenicurus leucocephalus,BL3,M6,Muscicapidae,Chats and Old World flycatchers,167,PASSERIFORMES,Passeri,No
+Cossypha albicapilla,Cossypha_albicapilla,White-crowned Robin-chat,Cossypha albicapillus,BL3,M6,Muscicapidae,Chats and Old World flycatchers,167,PASSERIFORMES,Passeri,No
+Cyornis pallipes,Cyornis_pallipes,White-bellied Blue-flycatcher,Cyornis pallidipes,BL3,M6,Muscicapidae,Chats and Old World flycatchers,167,PASSERIFORMES,Passeri,No
+Erythropygia leucophrys,Erythropygia_leucophrys,Red-backed Scrub-robin,Cercotrichas leucophrys,BL3,M6,Muscicapidae,Chats and Old World flycatchers,167,PASSERIFORMES,Passeri,No
+Erythropygia leucosticta,Erythropygia_leucosticta,Forest Scrub-robin,Cercotrichas leucosticta,BL3,M6,Muscicapidae,Chats and Old World flycatchers,167,PASSERIFORMES,Passeri,No
+Erythropygia paena,Erythropygia_paena,Kalahari Scrub-robin,Cercotrichas paena,BL3,M6,Muscicapidae,Chats and Old World flycatchers,167,PASSERIFORMES,Passeri,No
+Erythropygia quadrivirgata,Erythropygia_quadrivirgata,Bearded Scrub-robin,Cercotrichas quadrivirgata,BL3,M6,Muscicapidae,Chats and Old World flycatchers,167,PASSERIFORMES,Passeri,No
+Erythropygia signata,Erythropygia_signata,Brown Scrub-robin,Cercotrichas signata,BL3,M6,Muscicapidae,Chats and Old World flycatchers,167,PASSERIFORMES,Passeri,No
+Luscinia obscura,Luscinia_obscura,Black-throated Blue Robin,Calliope obscura,BL3,M6,Muscicapidae,Chats and Old World flycatchers,167,PASSERIFORMES,Passeri,No
+Luscinia pectoralis,Luscinia_pectoralis,White-tailed Rubythroat,Calliope pectoralis,BL3,M6,Muscicapidae,Chats and Old World flycatchers,167,PASSERIFORMES,Passeri,No
+Erythropygia galactotes,Erythropygia_galactotes,Rufous-tailed Scrub-robin,Cercotrichas galactotes,BL3,M6,Muscicapidae,Chats and Old World flycatchers,167,PASSERIFORMES,Passeri,No
+Erythropygia barbata,Erythropygia_barbata,Miombo Scrub-robin,Cercotrichas barbata,BL3,M6,Muscicapidae,Chats and Old World flycatchers,167,PASSERIFORMES,Passeri,No
+Erythropygia coryphaeus,Erythropygia_coryphaeus,Karoo Scrub-robin,Cercotrichas coryphoeus,BL3,M6,Muscicapidae,Chats and Old World flycatchers,167,PASSERIFORMES,Passeri,No
+Dioptrornis chocolatinus,Dioptrornis_chocolatinus,Abyssinian Slaty Flycatcher,Melaenornis chocolatinus,BL3,M6,Muscicapidae,Chats and Old World flycatchers,167,PASSERIFORMES,Passeri,No
+Erythropygia hartlaubi,Erythropygia_hartlaubi,Brown-backed Scrub-robin,Cercotrichas hartlaubi,BL3,M6,Muscicapidae,Chats and Old World flycatchers,167,PASSERIFORMES,Passeri,No
+Dioptrornis brunneus,Dioptrornis_brunneus,Angola Slaty Flycatcher,Melaenornis brunneus,BL3,M6,Muscicapidae,Chats and Old World flycatchers,167,PASSERIFORMES,Passeri,No
+Dioptrornis fischeri,Dioptrornis_fischeri,White-eyed Slaty Flycatcher,Melaenornis fischeri,BL3,M6,Muscicapidae,Chats and Old World flycatchers,167,PASSERIFORMES,Passeri,No
+Nectarinia ludovicensis,Nectarinia_ludovicensis,Ludwig's Double-collared Sunbird,Cinnyris ludovicensis,IOC27,P2,Nectariniidae,Sunbirds,168,PASSERIFORMES,Passeri,No
+Nectarinia manoensis,Nectarinia_manoensis,Miombo Double-collared Sunbird,Cinnyris manoensis,BL3,P2,Nectariniidae,Sunbirds,168,PASSERIFORMES,Passeri,No
+Nectarinia fuelleborni,Nectarinia_fuelleborni,Olive-bellied Double-collared Sunbird,Cinnyris mediocris,BL3,P2,Nectariniidae,Sunbirds,168,PASSERIFORMES,Passeri,No
+Nectarinia notata,Nectarinia_notata,Long-billed Green Sunbird,Cinnyris lotenius,BL3,P2,Nectariniidae,Sunbirds,168,PASSERIFORMES,Passeri,No
+Nectarinia thomensis,Nectarinia_thomensis,Giant Sunbird,Dreptes thomensis,BL3,P2,Nectariniidae,Sunbirds,168,PASSERIFORMES,Passeri,No
+Nectarinia stuhlmanni,Nectarinia_stuhlmanni,Ruwenzori Double-collared Sunbird,Cinnyris stuhlmanni,IOC27,P2,Nectariniidae,Sunbirds,168,PASSERIFORMES,Passeri,No
+Nectarinia veroxii,Nectarinia_veroxii,Mouse-coloured Sunbird,Cyanomitra veroxii,BL3,P2,Nectariniidae,Sunbirds,168,PASSERIFORMES,Passeri,No
+Anthreptes fraseri,Anthreptes_fraseri,Scarlet-tufted Sunbird,Nectarinia johnstoni,BL3,P2,Nectariniidae,Sunbirds,168,PASSERIFORMES,Passeri,No
+Hypogramma hypogrammicum,Hypogramma_hypogrammicum,Purple-naped Sunbird,Arachnothera hypogrammicum,BL3,P2,Nectariniidae,Sunbirds,168,PASSERIFORMES,Passeri,No
+Ortygospiza locustella,Ortygospiza_locustella,Locust Finch,Paludipasser locustella,BL3,P7,Estrildidae,"Waxbills, grass finches, munias and allies",169,PASSERIFORMES,Passeri,No
+Uraeginthus granatinus,Uraeginthus_granatinus,Common Grenadier,Granatina ianthinogaster,BL3,P7,Estrildidae,"Waxbills, grass finches, munias and allies",169,PASSERIFORMES,Passeri,No
+Lonchura bicolor,Lonchura_bicolor,Black-and-white Munia,Spermestes bicolor,BL3,P7,Estrildidae,"Waxbills, grass finches, munias and allies",169,PASSERIFORMES,Passeri,No
+Lonchura nigriceps,Lonchura_nigriceps,Brown-backed Munia,Spermestes bicolor,BL3,P7,Estrildidae,"Waxbills, grass finches, munias and allies",169,PASSERIFORMES,Passeri,No
+Lonchura cucullata,Lonchura_cucullata,Bronze Munia,Spermestes cucullata,BL3,P7,Estrildidae,"Waxbills, grass finches, munias and allies",169,PASSERIFORMES,Passeri,No
+Lonchura malabarica,Lonchura_malabarica,White-throated Munia,Euodice malabarica,BL3,P7,Estrildidae,"Waxbills, grass finches, munias and allies",169,PASSERIFORMES,Passeri,No
+Lonchura griseicapilla,Lonchura_griseicapilla,Grey-headed Silverbill,Odontospiza griseicapilla,BL3,P7,Estrildidae,"Waxbills, grass finches, munias and allies",169,PASSERIFORMES,Passeri,No
+Lonchura fringilloides,Lonchura_fringilloides,Magpie Munia,Spermestes fringilloides,BL3,P7,Estrildidae,"Waxbills, grass finches, munias and allies",169,PASSERIFORMES,Passeri,No
+Lonchura leucosticta,Lonchura_leucosticta,White-spotted Munia,Lonchura tristissima,BL3,P7,Estrildidae,"Waxbills, grass finches, munias and allies",169,PASSERIFORMES,Passeri,No
+Anthus longicaudatus,Anthus_longicaudatus,Long-tailed Pipit,Anthus vaalensis,BL3,P9,Motacillidae,Wagtails and pipits,170,PASSERIFORMES,Passeri,No
+Macronyx fuellebornii,Macronyx_fuellebornii,Fuelleborn's Longclaw,Macronyx fuelleborni,BL3,P9,Motacillidae,Wagtails and pipits,170,PASSERIFORMES,Passeri,No
+Phaeothlypis rivularis,Phaeothlypis_rivularis,Neotropical River Warbler,Myiothlypis rivularis,BL3,P20a,Parulidae,New World warblers,171,PASSERIFORMES,Passeri,No
+Basileuterus chlorophrys,Basileuterus_chlorophrys,Choco Warbler,Myiothlypis chrysogaster,IOC27,P20a,Parulidae,New World warblers,171,PASSERIFORMES,Passeri,No
+Basileuterus cinereicollis,Basileuterus_cinereicollis,Grey-throated Warbler,Myiothlypis cinereicollis,BL3,P20a,Parulidae,New World warblers,171,PASSERIFORMES,Passeri,No
+Basileuterus fraseri,Basileuterus_fraseri,Grey-and-gold Warbler,Myiothlypis fraseri,BL3,P20a,Parulidae,New World warblers,171,PASSERIFORMES,Passeri,No
+Basileuterus hypoleucus,Basileuterus_hypoleucus,White-bellied Warbler,Basileuterus culicivorus,BL3,P20a,Parulidae,New World warblers,171,PASSERIFORMES,Passeri,No
+Dendroica aestiva,Dendroica_aestiva,American Yellow Warbler,Setophaga petechia,IOC27,P20a,Parulidae,New World warblers,171,PASSERIFORMES,Passeri,No
+Dendroica delicata,Dendroica_delicata,St Lucia Warbler,Setophaga delicata,BL3,P20a,Parulidae,New World warblers,171,PASSERIFORMES,Passeri,No
+Geothlypis velata,Geothlypis_velata,Southern Yellowthroat,Geothlypis aequinoctialis,IOC27,P20a,Parulidae,New World warblers,171,PASSERIFORMES,Passeri,No
+Dendroica nigrescens,Dendroica_nigrescens,Black-throated Grey Warbler,Setophaga nigrescens,BL3,P20a,Parulidae,New World warblers,171,PASSERIFORMES,Passeri,No
+Geothlypis chiriquensis,Geothlypis_chiriquensis,Chiriqui Yellowthroat,Geothlypis semiflava,IOC27,P20a,Parulidae,New World warblers,171,PASSERIFORMES,Passeri,No
+Geothlypis auricularis,Geothlypis_auricularis,Black-lored Yellowthroat,Geothlypis aequinoctialis,IOC27,P20a,Parulidae,New World warblers,171,PASSERIFORMES,Passeri,No
+Salpornis spilonotus,Salpornis_spilonotus,Spotted Treecreeper,Salpornis spilonota,BL3,M1,Certhiidae,Treecreepers,174,PASSERIFORMES,Passeri,No
+Sturnus sturninus,Sturnus_sturninus,Purple-backed Starling,Agropsar sturninus,BL3,M4,Sturnidae,Starlings,177,PASSERIFORMES,Passeri,No
+Lamprotornis elisabeth,Lamprotornis_elisabeth,Southern Blue-eared Glossy-starling,Lamprotornis chloropterus,BL3,M4,Sturnidae,Starlings,177,PASSERIFORMES,Passeri,No
+Lamprotornis purpureiceps,Lamprotornis_purpureiceps,Purple-headed Glossy-starling,Hylopsar purpureiceps,BL3,M4,Sturnidae,Starlings,177,PASSERIFORMES,Passeri,No
+Lamprotornis cupreocauda,Lamprotornis_cupreocauda,Copper-tailed Glossy-starling,Hylopsar cupreocauda,BL3,M4,Sturnidae,Starlings,177,PASSERIFORMES,Passeri,No
+Lamprotornis corruscus,Lamprotornis_corruscus,Black-bellied Glossy-starling,Notopholia corrusca,BL3,M4,Sturnidae,Starlings,177,PASSERIFORMES,Passeri,No
+Zoothera tanganjicae,Zoothera_tanganjicae,Kivu Ground-thrush,Geokichla tanganjicae,BL3,M5,Turdidae,Thrushes,178,PASSERIFORMES,Passeri,No
+Zoothera princei,Zoothera_princei,Grey Ground-thrush,Geokichla princei,BL3,M5,Turdidae,Thrushes,178,PASSERIFORMES,Passeri,No
+Zoothera piaggiae,Zoothera_piaggiae,Abyssinian Ground-thrush,Geokichla piaggiae,BL3,M5,Turdidae,Thrushes,178,PASSERIFORMES,Passeri,No
+Stizorhina finschi,Stizorhina_finschi,Finsch's Rufous Thrush,Neocossyphus finschi,IOC27,M5,Turdidae,Thrushes,178,PASSERIFORMES,Passeri,No
+Zoothera major,Zoothera_major,Amami Thrush,Zoothera dauma,IOC27,M5,Turdidae,Thrushes,178,PASSERIFORMES,Passeri,No
+Turdus daguae,Turdus_daguae,Dagua Thrush,Turdus assimilis,IOC27,M5,Turdidae,Thrushes,178,PASSERIFORMES,Passeri,No
+Stizorhina fraseri,Stizorhina_fraseri,Rufous Flycatcher-thrush,Neocossyphus fraseri,BL3,M5,Turdidae,Thrushes,178,PASSERIFORMES,Passeri,No
+Zoothera oberlaenderi,Zoothera_oberlaenderi,Forest Ground-thrush,Geokichla oberlaenderi,BL3,M5,Turdidae,Thrushes,178,PASSERIFORMES,Passeri,No
+Zoothera camaronensis,Zoothera_camaronensis,Black-eared Ground-thrush,Geokichla camaronensis,BL3,M5,Turdidae,Thrushes,178,PASSERIFORMES,Passeri,No
+Zoothera crossleyi,Zoothera_crossleyi,Crossley's Ground-thrush,Geokichla crossleyi,BL3,M5,Turdidae,Thrushes,178,PASSERIFORMES,Passeri,No
+Zoothera guttata,Zoothera_guttata,Spotted Ground-thrush,Geokichla guttata,BL3,M5,Turdidae,Thrushes,178,PASSERIFORMES,Passeri,No
+Zoothera gurneyi,Zoothera_gurneyi,Orange Ground-thrush,Geokichla gurneyi,BL3,M5,Turdidae,Thrushes,178,PASSERIFORMES,Passeri,No
+Zoothera erythronota,Zoothera_erythronota,Red-backed Thrush,Geokichla erythronota,BL3,M5,Turdidae,Thrushes,178,PASSERIFORMES,Passeri,No
+Alethe choloensis,Alethe_choloensis,Thyolo Alethe,Chamaetylas choloensis,BL3,M6,Turdidae,Thrushes,178,PASSERIFORMES,Passeri,No
+Dicaeum aeruginosum,Dicaeum_aeruginosum,Striped Flowerpecker,Dicaeum agile,BL3,P2,Dicaeidae,Flowerpeckers,181,PASSERIFORMES,Passeri,No
+Petronia brachydactyla,Petronia_brachydactyla,Pale Rock Sparrow,Carpospiza brachydactyla,BL3,P8,Passeridae,"Sparrows, snowfinches and allies",183,PASSERIFORMES,Passeri,No
+Rhynchostruthus percivali,Rhynchostruthus_percivali,Arabian Grosbeak,Rhynchostruthus socotranus,BL3,P10,Fringillidae,Finches and Hawaiian honeycreepers,188,PASSERIFORMES,Passeri,No
+Serinus buchanani,Serinus_buchanani,Kenya Grosbeak-canary,Crithagra buchanani,BL3,P10,Fringillidae,Finches and Hawaiian honeycreepers,188,PASSERIFORMES,Passeri,No
+Serinus atrogularis,Serinus_atrogularis,Black-throated Seedeater,Sporophila ruficollis,BL3,P10,Fringillidae,Finches and Hawaiian honeycreepers,188,PASSERIFORMES,Passeri,No
+Serinus melanochrous,Serinus_melanochrous,Kipengere Seedeater,Crithagra melanochroa,BL3,P10,Fringillidae,Finches and Hawaiian honeycreepers,188,PASSERIFORMES,Passeri,No
+Serinus citrinelloides,Serinus_citrinelloides,Abyssinian Citril,Crithagra citrinelloides,BL3,P10,Fringillidae,Finches and Hawaiian honeycreepers,188,PASSERIFORMES,Passeri,No
+Serinus donaldsoni,Serinus_donaldsoni,Ethiopian Grosbeak-canary,Crithagra donaldsoni,BL3,P10,Fringillidae,Finches and Hawaiian honeycreepers,188,PASSERIFORMES,Passeri,No
+Serinus flavigula,Serinus_flavigula,Yellow-throated Seedeater,Crithagra flavigula,BL3,P10,Fringillidae,Finches and Hawaiian honeycreepers,188,PASSERIFORMES,Passeri,No
+Serinus xanthopygius,Serinus_xanthopygius,Yellow-rumped Seedeater,Crithagra xanthopygia,BL3,P10,Fringillidae,Finches and Hawaiian honeycreepers,188,PASSERIFORMES,Passeri,No
+Serinus frontalis,Serinus_frontalis,Yellow-browed Citril,Crithagra frontalis,BL3,P10,Fringillidae,Finches and Hawaiian honeycreepers,188,PASSERIFORMES,Passeri,No
+Serinus hypostictus,Serinus_hypostictus,Grey-faced Citril,Crithagra hyposticta,BL3,P10,Fringillidae,Finches and Hawaiian honeycreepers,188,PASSERIFORMES,Passeri,No
+Carduelis sinica,Carduelis_sinica,Grey-capped Greenfinch,Chloris sinica,BL3,P10,Fringillidae,Finches and Hawaiian honeycreepers,188,PASSERIFORMES,Passeri,No
+Carduelis monguilloti,Carduelis_monguilloti,Vietnam Greenfinch,Chloris monguilloti,BL3,P10,Fringillidae,Finches and Hawaiian honeycreepers,188,PASSERIFORMES,Passeri,No
+Carpodacus rubescens,Carpodacus_rubescens,Crimson Rosefinch,Agraphospiza rubescens,BL3,P10,Fringillidae,Finches and Hawaiian honeycreepers,188,PASSERIFORMES,Passeri,No
+Hemignathus virens,Hemignathus_virens,Common Amakihi,Chlorodrepanis virens,BL3,P10,Fringillidae,Finches and Hawaiian honeycreepers,188,PASSERIFORMES,Passeri,No
+Leucosticte sillemi,Leucosticte_sillemi,Sillem's Mountain-finch,Carpodacus sillemi,BL3,P10,Fringillidae,Finches and Hawaiian honeycreepers,188,PASSERIFORMES,Passeri,No
+Molothrus armenti,Molothrus_armenti,Bronze-brown Cowbird,Molothrus aeneus,IOC27,P21,Icteridae,New World blackbirds,190,PASSERIFORMES,Passeri,No
+Ocyalus latirostris,Ocyalus_latirostris,Band-tailed Oropendola,Cacicus latirostris,BL3,P21,Icteridae,New World blackbirds,190,PASSERIFORMES,Passeri,No
+Sturnella militaris,Sturnella_militaris,Red-breasted Blackbird,Leistes militaris,BL3,P21,Icteridae,New World blackbirds,190,PASSERIFORMES,Passeri,No
+Sturnella superciliaris,Sturnella_superciliaris,White-browed Blackbird,Leistes superciliaris,BL3,P21,Icteridae,New World blackbirds,190,PASSERIFORMES,Passeri,No
+Clypicterus oseryi,Clypicterus_oseryi,Casqued Oropendola,Cacicus oseryi,BL3,P21,Icteridae,New World blackbirds,190,PASSERIFORMES,Passeri,No
+Cacicus microrhynchus,Cacicus_microrhynchus,Scarlet-rumped Cacique,Cacicus uropygialis,IOC27,P21,Icteridae,New World blackbirds,190,PASSERIFORMES,Passeri,No
+Cacicus leucoramphus,Cacicus_leucoramphus,Northern Mountain Cacique,Cacicus chrysonotus,IOC27,P21,Icteridae,New World blackbirds,190,PASSERIFORMES,Passeri,No
+Oryzoborus funereus,Oryzoborus_funereus,Thick-billed Seed-finch,Sporophila funerea,BL3,P13P14P16,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri,No
+Oryzoborus crassirostris,Oryzoborus_crassirostris,Large-billed Seed-finch,Sporophila crassirostris,BL3,P13P14P16,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri,No
+Oryzoborus atrirostris,Oryzoborus_atrirostris,Black-billed Seed-finch,Sporophila atrirostris,BL3,P13P14P16,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri,No
+Oryzoborus angolensis,Oryzoborus_angolensis,Lesser Seed-finch,Sporophila angolensis,BL3,P13P14P16,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri,No
+Oryzoborus nuttingi,Oryzoborus_nuttingi,Nicaraguan Seed-finch,Sporophila nuttingi,BL3,P13P14P16,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri,No
+Poospiza melanoleuca,Poospiza_melanoleuca,Black-capped Warbling-finch,Microspingus melanoleucus,BL3,P13P14P16,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri,No
+Oryzoborus maximiliani,Oryzoborus_maximiliani,Great-billed Seed-finch,Sporophila maximiliani,BL3,P13P14P16,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri,No
+Poospiza erythrophrys,Poospiza_erythrophrys,Rusty-browed Warbling-finch,Microspingus erythrophrys,BL3,P13P14P16,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri,No
+Poospiza cinerea,Poospiza_cinerea,Cinereous Warbling-finch,Microspingus cinereus,BL3,P13P14P16,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri,No
+Poospiza cabanisi,Poospiza_cabanisi,Grey-throated Warbling-finch,Microspingus cabanisi,BL3,P13P14P16,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri,No
+Poospiza alticola,Poospiza_alticola,Plain-tailed Warbling-finch,Microspingus alticola,BL3,P13P14P16,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri,No
+Phrygilus plebejus,Phrygilus_plebejus,Ash-breasted Sierra-finch,Geospizopsis plebejus,BL3,P13P14P16,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri,No
+Poospiza lateralis,Poospiza_lateralis,Buff-throated Warbling-finch,Microspingus lateralis,BL3,P13P14P16,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri,No
+Phrygilus unicolor,Phrygilus_unicolor,Plumbeous Sierra-finch,Geospizopsis unicolor,BL3,P13P14P16,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri,No
+Poospiza thoracica,Poospiza_thoracica,Bay-chested Warbling-finch,Castanozoster thoracicus,BL3,P13P14P16,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri,No
+Poospiza torquata,Poospiza_torquata,Ringed Warbling-finch,Microspingus torquatus,BL3,P13P14P16,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri,No
+Sporophila melanops,Sporophila_melanops,Hooded Seedeater,Sporophila nigricollis,BL3,P13P14P16,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri,No
+Ammodramus leconteii,Ammodramus_leconteii,Le Conte's Sparrow,Ammospiza leconteii,BL3,P20b,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri,No
+Amphispiza belli,Amphispiza_belli,Sage Sparrow,Artemisiospiza belli,BL3,P20b,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri,No
+Diuca speculifera,Diuca_speculifera,White-winged Diuca-finch,Idiopsar speculifer,BL3,P17P18,Emberizidae,"Buntings, American sparrows and allies",192,PASSERIFORMES,Passeri,No
+Ramphocelus costaricensis,Ramphocelus_costaricensis,Cherrie's Tanager,Ramphocelus passerinii,BL3,P13P14P16,Thraupidae,Tanagers,193,PASSERIFORMES,Passeri,No
+Ramphocelus icteronotus,Ramphocelus_icteronotus,Lemon-rumped Tanager,Ramphocelus flammigerus,IOC27,P13P14P16,Thraupidae,Tanagers and Allies,193,PASSERIFORMES,Passeri,No
+Piranga lutea,Piranga_lutea,Tooth-billed Tanager,Piranga flava,IOC27,P12,Thraupidae,Tanagers and Allies,193,PASSERIFORMES,Passeri,No
+Piranga hepatica,Piranga_hepatica,Hepatic Tanager,Piranga flava,IOC27,P12,Thraupidae,Tanagers and Allies,193,PASSERIFORMES,Passeri,No
+Dacnis egregia,Dacnis_egregia,Yellow-tufted Dacnis,Dacnis lineata,IOC27,P13P14P16,Thraupidae,Tanagers and Allies,193,PASSERIFORMES,Passeri,No
+Compsospiza garleppi,Compsospiza_garleppi,Cochabamba Mountain-finch,Poospiza garleppi,BL3,P13P14P16,Thraupidae,Tanagers,193,PASSERIFORMES,Passeri,No
+Compsospiza baeri,Compsospiza_baeri,Tucuman Mountain-finch,Poospiza baeri,BL3,P13P14P16,Thraupidae,Tanagers,193,PASSERIFORMES,Passeri,No
+Chlorothraupis frenata,Chlorothraupis_frenata,Olive Tanager,Chlorothraupis carmioli,IOC27,P12,Thraupidae,Tanagers and Allies,193,PASSERIFORMES,Passeri,No
+Buthraupis eximia,Buthraupis_eximia,Black-chested Mountain-tanager,Cnemathraupis eximia,BL3,P17P18,Thraupidae,Tanagers,193,PASSERIFORMES,Passeri,No
+Buthraupis aureodorsalis,Buthraupis_aureodorsalis,Golden-backed Mountain-tanager,Cnemathraupis aureodorsalis,BL3,P17P18,Thraupidae,Tanagers,193,PASSERIFORMES,Passeri,No
+Chlorospingus ophthalmicus,Chlorospingus_ophthalmicus,Common Bush-tanager,Chlorospingus flavopectus,BL3,P20b,Thraupidae,Tanagers,193,PASSERIFORMES,Passeri,No
+Delothraupis castaneoventris,Delothraupis_castaneoventris,Chestnut-bellied Mountain-tanager,Dubusia castaneoventris,BL3,P17P18,Thraupidae,Tanagers,193,PASSERIFORMES,Passeri,No
+Hemispingus piurae,Hemispingus_piurae,Piura Hemispingus,Sphenopsis melanotis,IOC27,P13P14P16,Thraupidae,Tanagers and Allies,193,PASSERIFORMES,Passeri,No
+Hemispingus ochraceus,Hemispingus_ochraceus,Western Hemispingus,Sphenopsis melanotis,IOC27,P13P14P16,Thraupidae,Tanagers and Allies,193,PASSERIFORMES,Passeri,No
+Hemispingus reyi,Hemispingus_reyi,Grey-capped Hemispingus,Kleinothraupis reyi,BL3,P13P14P16,Thraupidae,Tanagers,193,PASSERIFORMES,Passeri,No
+Hemispingus auricularis,Hemispingus_auricularis,White-browed Hemispingus,Kleinothraupis atropileus,IOC27,P13P14P16,Thraupidae,Tanagers and Allies,193,PASSERIFORMES,Passeri,No
+Saltator rufiventris,Saltator_rufiventris,Rufous-bellied Saltator,Pseudosaltator rufiventris,BL3,P17P18,Cardinalidae,"Grosbeaks, saltators and allies",194,PASSERIFORMES,Passeri,No
