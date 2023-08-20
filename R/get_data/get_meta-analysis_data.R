@@ -36,7 +36,7 @@ dim(dat)
 sum(complete.cases(dat))
 
 saveRDS(dat, here("Rdata/dat_MA.RDS"))
-saveRDS(data_full, here("Rdata/data_full.RDS"))
+#saveRDS(data_full, here("Rdata/data_full.RDS"))
 
 ########
 # extra
