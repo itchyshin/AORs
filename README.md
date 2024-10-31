@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/680651302.svg)](https://doi.org/10.5281/zenodo.14019900)
+
 # AORs (abundance-occupancy relationships)
 A repository for a meta-analysis of abundance-occupancy relationships
 
