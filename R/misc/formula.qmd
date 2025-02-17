@@ -6,17 +6,34 @@ editor: visual
 ---
 
 $$
-Zr_i = \beta_0 +  \textit{County}_{k[i]} + \textit{State_code}_{j[i]} + \textit{Effect_size}_{i} 
+Zr_i = \beta_0 +  \textit{County}_{k[i]} + \textit{State-code}_{j[i]} + \textit{Effect-size}_{i} 
 $$
 
 
 
 $$
-\textit{County}_{k} \sim \mathcal{N}(0, \sigma_{country}^{2}), ~~ \textit{State_code}_{j} \sim \mathcal{N}(0, \sigma_{state_code}^{2}), ~~\& ~~ \textit{Effect_size}_{i} \sim \mathcal{N}(0, \sigma_{effect_size}^{2})
+\textit{County}_{k} \sim \mathcal{N}(0, \sigma_{country}^{2}), ~~ \textit{State-code}_{j} \sim \mathcal{N}(0, \sigma_{State-code}^{2}), \textit{Effect-size}_{i} \sim \mathcal{N}(0, \sigma_{Effect-size}^{2}) ~~\& ~~ \textit{Sampling-error}_{i} \sim \mathcal{N}(0, \sigma_{Sampling-error_i}^{2})
 $$
 
 
 
 $$
-Zr_i = \beta_0 + beta_1 * z(ln(checklist duration))_i + \text{} \textit{County}_{k[i]} + \textit{State_code}_{j[i]} +\textit{Effect_size}_{i} 
+Zr_i = \beta_0 + \beta_1 * \text{z(ln(checklist duration))}_i + \text{} \textit{County}_{k[i]} + \textit{State-code}_{j[i]} +\textit{Effect-size}_{i} 
+$$
+
+$$
+Zr_i = \beta_0 + \beta_1 * \text{Sampling-variance}_i + \text{} \textit{County}_{k[i]} + \textit{State-code}_{j[i]} +\textit{Effect-size}_{i} 
+$$
+
+
+$$
+Zr_i = \beta_0 + \beta_1 * \text{z(ln(checklist duration))}_i + \beta_2 * \text{Sampling-variance}_i + \text{} \textit{County}_{k[i]} + \textit{State-code}_{j[i]} +\textit{Effect-size}_{i} 
+$$
+
+$$
+\text{Abundance}_i = \beta_0 + \beta_1 * \text{log10(range size)}  +\textit{error}_{i} 
+$$
+
+$$
+\textit{Error}_{i} \sim \mathcal{N}(0, \sigma_{Error}^{2}\mathbf{A})
 $$
